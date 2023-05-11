@@ -1,0 +1,1881 @@
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\API.dll.config
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\API.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\API.pdb
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\csc.exe
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\csc.exe.config
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\csc.rsp
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\csi.exe
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\csi.exe.config
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\csi.rsp
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.AppContext.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Console.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Net.Http.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\vbc.exe
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\vbc.exe.config
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\vbc.rsp
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Antlr3.Runtime.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\BLL.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Google.Apis.Auth.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Google.Apis.Core.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Google.Apis.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Google.Apis.PlatformServices.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Newtonsoft.Json.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Net.Http.Formatting.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.Helpers.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.Http.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.Http.WebHost.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.Mvc.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.Optimization.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.Razor.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.WebPages.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\WebGrease.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\GoogleMaps.LocationServices.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\HtmlAgilityPack.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\HebrewNLP.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\BLL.pdb
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\BLL.dll.config
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Google.Apis.pdb
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Google.Apis.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Google.Apis.Auth.pdb
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Google.Apis.Auth.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Google.Apis.Core.pdb
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Google.Apis.Core.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Newtonsoft.Json.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Net.Http.Formatting.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.Helpers.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.Http.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.Http.WebHost.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.Mvc.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.Optimization.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.Razor.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.WebPages.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Antlr3.Runtime.pdb
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\HtmlAgilityPack.pdb
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\HtmlAgilityPack.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\obj\Debug\API.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\obj\Debug\API.pdb
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.Extensions.Options.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Buffers.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.ComponentModel.Annotations.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Memory.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Numerics.Vectors.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Text.Encodings.Web.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.Cors.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.Http.Cors.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.Extensions.Options.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Buffers.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Memory.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Numerics.Vectors.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Text.Encodings.Web.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\System.Web.Http.Cors.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\libzstd.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\snappy32.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\snappy64.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\libsnappy64.so
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\libzstd.so
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\libsnappy64.dylib
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\libzstd.dylib
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\mongocrypt.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\DAL.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\MongoDB.Driver.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\MongoDB.Driver.Core.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\MongoDB.Bson.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\MongoDB.Libmongocrypt.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\DnsClient.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\SharpCompress.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\DAL.pdb
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\DAL.dll.config
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\MongoDB.Driver.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\MongoDB.Driver.Core.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\MongoDB.Bson.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\API\bin\DnsClient.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\libzstd.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\snappy32.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\snappy64.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\libsnappy64.so
+C:\Users\Comp8\Desktop\SERVER\API\bin\libzstd.so
+C:\Users\Comp8\Desktop\SERVER\API\bin\libsnappy64.dylib
+C:\Users\Comp8\Desktop\SERVER\API\bin\libzstd.dylib
+C:\Users\Comp8\Desktop\SERVER\API\bin\mongocrypt.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\API.dll.config
+C:\Users\Comp8\Desktop\SERVER\API\bin\API.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\API.pdb
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\csc.exe
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\csc.exe.config
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\csc.rsp
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\csi.exe
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\csi.exe.config
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\csi.rsp
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.AppContext.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Console.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Net.Http.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\vbc.exe
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\vbc.exe.config
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\vbc.rsp
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Comp8\Desktop\SERVER\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Comp8\Desktop\SERVER\API\bin\Antlr3.Runtime.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\BLL.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\DAL.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Google.Apis.Auth.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Google.Apis.Core.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Google.Apis.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Google.Apis.PlatformServices.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.Extensions.Options.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\Newtonsoft.Json.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Buffers.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.ComponentModel.Annotations.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Memory.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Net.Http.Formatting.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Numerics.Vectors.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Text.Encodings.Web.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.Cors.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.Helpers.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.Http.Cors.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.Http.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.Http.WebHost.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.Mvc.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.Optimization.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.Razor.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.WebPages.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\WebGrease.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\MongoDB.Driver.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\MongoDB.Bson.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\MongoDB.Driver.Core.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\MongoDB.Libmongocrypt.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\DnsClient.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\SharpCompress.dll
+C:\Users\Comp8\Desktop\SERVER\API\bin\BLL.pdb
+C:\Users\Comp8\Desktop\SERVER\API\bin\BLL.dll.config
+C:\Users\Comp8\Desktop\SERVER\API\bin\DAL.pdb
+C:\Users\Comp8\Desktop\SERVER\API\bin\DAL.dll.config
+C:\Users\Comp8\Desktop\SERVER\API\bin\Google.Apis.pdb
+C:\Users\Comp8\Desktop\SERVER\API\bin\Google.Apis.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\Google.Apis.Auth.pdb
+C:\Users\Comp8\Desktop\SERVER\API\bin\Google.Apis.Auth.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\Google.Apis.Core.pdb
+C:\Users\Comp8\Desktop\SERVER\API\bin\Google.Apis.Core.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.Extensions.Options.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\Newtonsoft.Json.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Buffers.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Memory.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Net.Http.Formatting.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Numerics.Vectors.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Text.Encodings.Web.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.Http.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.Http.Cors.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.Helpers.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.Http.WebHost.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.Mvc.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.Optimization.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.Razor.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.WebPages.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\Antlr3.Runtime.pdb
+C:\Users\Comp8\Desktop\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\MongoDB.Driver.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\MongoDB.Bson.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\MongoDB.Driver.Core.xml
+C:\Users\Comp8\Desktop\SERVER\API\bin\DnsClient.xml
+C:\Users\Comp8\Desktop\SERVER\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\Comp8\Desktop\SERVER\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\Comp8\Desktop\SERVER\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\Comp8\Desktop\SERVER\API\obj\Debug\API.dll
+C:\Users\Comp8\Desktop\SERVER\API\obj\Debug\API.pdb
+F:\project\new\SERVER\API\bin\libzstd.dll
+F:\project\new\SERVER\API\bin\snappy32.dll
+F:\project\new\SERVER\API\bin\snappy64.dll
+F:\project\new\SERVER\API\bin\libsnappy64.so
+F:\project\new\SERVER\API\bin\libzstd.so
+F:\project\new\SERVER\API\bin\libsnappy64.dylib
+F:\project\new\SERVER\API\bin\libzstd.dylib
+F:\project\new\SERVER\API\bin\mongocrypt.dll
+F:\project\new\SERVER\API\bin\API.dll.config
+F:\project\new\SERVER\API\bin\API.dll
+F:\project\new\SERVER\API\bin\API.pdb
+F:\project\new\SERVER\API\bin\roslyn\csc.exe
+F:\project\new\SERVER\API\bin\roslyn\csc.exe.config
+F:\project\new\SERVER\API\bin\roslyn\csc.rsp
+F:\project\new\SERVER\API\bin\roslyn\csi.exe
+F:\project\new\SERVER\API\bin\roslyn\csi.exe.config
+F:\project\new\SERVER\API\bin\roslyn\csi.rsp
+F:\project\new\SERVER\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\project\new\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\project\new\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\project\new\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\project\new\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\project\new\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\project\new\SERVER\API\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\project\new\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\project\new\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\project\new\SERVER\API\bin\roslyn\Microsoft.Managed.Core.targets
+F:\project\new\SERVER\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\project\new\SERVER\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\project\new\SERVER\API\bin\roslyn\System.AppContext.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Collections.Immutable.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Console.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Globalization.Calendars.dll
+F:\project\new\SERVER\API\bin\roslyn\System.IO.Compression.dll
+F:\project\new\SERVER\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\project\new\SERVER\API\bin\roslyn\System.IO.FileSystem.dll
+F:\project\new\SERVER\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Net.Http.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Net.Sockets.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Reflection.Metadata.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\project\new\SERVER\API\bin\roslyn\System.ValueTuple.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Xml.XmlDocument.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Xml.XPath.dll
+F:\project\new\SERVER\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\project\new\SERVER\API\bin\roslyn\vbc.exe
+F:\project\new\SERVER\API\bin\roslyn\vbc.exe.config
+F:\project\new\SERVER\API\bin\roslyn\vbc.rsp
+F:\project\new\SERVER\API\bin\roslyn\VBCSCompiler.exe
+F:\project\new\SERVER\API\bin\roslyn\VBCSCompiler.exe.config
+F:\project\new\SERVER\API\bin\Antlr3.Runtime.dll
+F:\project\new\SERVER\API\bin\BLL.dll
+F:\project\new\SERVER\API\bin\DAL.dll
+F:\project\new\SERVER\API\bin\Google.Apis.Auth.dll
+F:\project\new\SERVER\API\bin\Google.Apis.Auth.PlatformServices.dll
+F:\project\new\SERVER\API\bin\Google.Apis.Core.dll
+F:\project\new\SERVER\API\bin\Google.Apis.dll
+F:\project\new\SERVER\API\bin\Google.Apis.PlatformServices.dll
+F:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Cors.dll
+F:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+F:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.dll
+F:\project\new\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\project\new\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\project\new\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\project\new\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\project\new\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\project\new\SERVER\API\bin\Microsoft.Extensions.Options.dll
+F:\project\new\SERVER\API\bin\Microsoft.Extensions.Primitives.dll
+F:\project\new\SERVER\API\bin\Microsoft.Net.Http.Headers.dll
+F:\project\new\SERVER\API\bin\Microsoft.Web.Infrastructure.dll
+F:\project\new\SERVER\API\bin\Newtonsoft.Json.dll
+F:\project\new\SERVER\API\bin\System.Buffers.dll
+F:\project\new\SERVER\API\bin\System.ComponentModel.Annotations.dll
+F:\project\new\SERVER\API\bin\System.Memory.dll
+F:\project\new\SERVER\API\bin\System.Net.Http.Formatting.dll
+F:\project\new\SERVER\API\bin\System.Numerics.Vectors.dll
+F:\project\new\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\project\new\SERVER\API\bin\System.Text.Encodings.Web.dll
+F:\project\new\SERVER\API\bin\System.Web.Cors.dll
+F:\project\new\SERVER\API\bin\System.Web.Helpers.dll
+F:\project\new\SERVER\API\bin\System.Web.Http.Cors.dll
+F:\project\new\SERVER\API\bin\System.Web.Http.dll
+F:\project\new\SERVER\API\bin\System.Web.Http.WebHost.dll
+F:\project\new\SERVER\API\bin\System.Web.Mvc.dll
+F:\project\new\SERVER\API\bin\System.Web.Optimization.dll
+F:\project\new\SERVER\API\bin\System.Web.Razor.dll
+F:\project\new\SERVER\API\bin\System.Web.WebPages.Deployment.dll
+F:\project\new\SERVER\API\bin\System.Web.WebPages.dll
+F:\project\new\SERVER\API\bin\System.Web.WebPages.Razor.dll
+F:\project\new\SERVER\API\bin\WebGrease.dll
+F:\project\new\SERVER\API\bin\MongoDB.Driver.dll
+F:\project\new\SERVER\API\bin\MongoDB.Bson.dll
+F:\project\new\SERVER\API\bin\MongoDB.Driver.Core.dll
+F:\project\new\SERVER\API\bin\MongoDB.Libmongocrypt.dll
+F:\project\new\SERVER\API\bin\DnsClient.dll
+F:\project\new\SERVER\API\bin\SharpCompress.dll
+F:\project\new\SERVER\API\bin\BLL.pdb
+F:\project\new\SERVER\API\bin\BLL.dll.config
+F:\project\new\SERVER\API\bin\DAL.pdb
+F:\project\new\SERVER\API\bin\DAL.dll.config
+F:\project\new\SERVER\API\bin\Google.Apis.pdb
+F:\project\new\SERVER\API\bin\Google.Apis.xml
+F:\project\new\SERVER\API\bin\Google.Apis.Auth.pdb
+F:\project\new\SERVER\API\bin\Google.Apis.Auth.xml
+F:\project\new\SERVER\API\bin\Google.Apis.Core.pdb
+F:\project\new\SERVER\API\bin\Google.Apis.Core.xml
+F:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Cors.xml
+F:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+F:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+F:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.xml
+F:\project\new\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\project\new\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\project\new\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+F:\project\new\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+F:\project\new\SERVER\API\bin\Microsoft.Extensions.Options.xml
+F:\project\new\SERVER\API\bin\Microsoft.Extensions.Primitives.xml
+F:\project\new\SERVER\API\bin\Microsoft.Net.Http.Headers.xml
+F:\project\new\SERVER\API\bin\Newtonsoft.Json.xml
+F:\project\new\SERVER\API\bin\System.Buffers.xml
+F:\project\new\SERVER\API\bin\System.Memory.xml
+F:\project\new\SERVER\API\bin\System.Net.Http.Formatting.xml
+F:\project\new\SERVER\API\bin\System.Numerics.Vectors.xml
+F:\project\new\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\project\new\SERVER\API\bin\System.Text.Encodings.Web.xml
+F:\project\new\SERVER\API\bin\System.Web.Http.xml
+F:\project\new\SERVER\API\bin\System.Web.Http.Cors.xml
+F:\project\new\SERVER\API\bin\System.Web.Helpers.xml
+F:\project\new\SERVER\API\bin\System.Web.Http.WebHost.xml
+F:\project\new\SERVER\API\bin\System.Web.Mvc.xml
+F:\project\new\SERVER\API\bin\System.Web.Optimization.xml
+F:\project\new\SERVER\API\bin\System.Web.Razor.xml
+F:\project\new\SERVER\API\bin\System.Web.WebPages.xml
+F:\project\new\SERVER\API\bin\System.Web.WebPages.Deployment.xml
+F:\project\new\SERVER\API\bin\System.Web.WebPages.Razor.xml
+F:\project\new\SERVER\API\bin\Antlr3.Runtime.pdb
+F:\project\new\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\project\new\SERVER\API\bin\MongoDB.Driver.xml
+F:\project\new\SERVER\API\bin\MongoDB.Bson.xml
+F:\project\new\SERVER\API\bin\MongoDB.Driver.Core.xml
+F:\project\new\SERVER\API\bin\DnsClient.xml
+F:\project\new\SERVER\API\obj\Debug\API.csproj.AssemblyReference.cache
+F:\project\new\SERVER\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+F:\project\new\SERVER\API\obj\Debug\API.csproj.CopyComplete
+F:\project\new\SERVER\API\obj\Debug\API.dll
+F:\project\new\SERVER\API\obj\Debug\API.pdb
+D:\project\new\SERVER\API\bin\libzstd.dll
+D:\project\new\SERVER\API\bin\snappy32.dll
+D:\project\new\SERVER\API\bin\snappy64.dll
+D:\project\new\SERVER\API\bin\libsnappy64.so
+D:\project\new\SERVER\API\bin\libzstd.so
+D:\project\new\SERVER\API\bin\libsnappy64.dylib
+D:\project\new\SERVER\API\bin\libzstd.dylib
+D:\project\new\SERVER\API\bin\mongocrypt.dll
+D:\project\new\SERVER\API\bin\API.dll.config
+D:\project\new\SERVER\API\bin\API.dll
+D:\project\new\SERVER\API\bin\API.pdb
+D:\project\new\SERVER\API\bin\roslyn\csc.exe
+D:\project\new\SERVER\API\bin\roslyn\csc.exe.config
+D:\project\new\SERVER\API\bin\roslyn\csc.rsp
+D:\project\new\SERVER\API\bin\roslyn\csi.exe
+D:\project\new\SERVER\API\bin\roslyn\csi.exe.config
+D:\project\new\SERVER\API\bin\roslyn\csi.rsp
+D:\project\new\SERVER\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project\new\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project\new\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\project\new\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project\new\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\project\new\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project\new\SERVER\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project\new\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\project\new\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\project\new\SERVER\API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\project\new\SERVER\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project\new\SERVER\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\project\new\SERVER\API\bin\roslyn\System.AppContext.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Collections.Immutable.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Console.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Globalization.Calendars.dll
+D:\project\new\SERVER\API\bin\roslyn\System.IO.Compression.dll
+D:\project\new\SERVER\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\project\new\SERVER\API\bin\roslyn\System.IO.FileSystem.dll
+D:\project\new\SERVER\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Net.Http.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Net.Sockets.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\project\new\SERVER\API\bin\roslyn\System.ValueTuple.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Xml.XPath.dll
+D:\project\new\SERVER\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\project\new\SERVER\API\bin\roslyn\vbc.exe
+D:\project\new\SERVER\API\bin\roslyn\vbc.exe.config
+D:\project\new\SERVER\API\bin\roslyn\vbc.rsp
+D:\project\new\SERVER\API\bin\roslyn\VBCSCompiler.exe
+D:\project\new\SERVER\API\bin\roslyn\VBCSCompiler.exe.config
+D:\project\new\SERVER\API\bin\Antlr3.Runtime.dll
+D:\project\new\SERVER\API\bin\BLL.dll
+D:\project\new\SERVER\API\bin\DAL.dll
+D:\project\new\SERVER\API\bin\Google.Apis.Auth.dll
+D:\project\new\SERVER\API\bin\Google.Apis.Auth.PlatformServices.dll
+D:\project\new\SERVER\API\bin\Google.Apis.Core.dll
+D:\project\new\SERVER\API\bin\Google.Apis.dll
+D:\project\new\SERVER\API\bin\Google.Apis.PlatformServices.dll
+D:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Cors.dll
+D:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\project\new\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project\new\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\project\new\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project\new\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\project\new\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\project\new\SERVER\API\bin\Microsoft.Extensions.Options.dll
+D:\project\new\SERVER\API\bin\Microsoft.Extensions.Primitives.dll
+D:\project\new\SERVER\API\bin\Microsoft.Net.Http.Headers.dll
+D:\project\new\SERVER\API\bin\Microsoft.Web.Infrastructure.dll
+D:\project\new\SERVER\API\bin\Newtonsoft.Json.dll
+D:\project\new\SERVER\API\bin\System.Buffers.dll
+D:\project\new\SERVER\API\bin\System.ComponentModel.Annotations.dll
+D:\project\new\SERVER\API\bin\System.Memory.dll
+D:\project\new\SERVER\API\bin\System.Net.Http.Formatting.dll
+D:\project\new\SERVER\API\bin\System.Numerics.Vectors.dll
+D:\project\new\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\project\new\SERVER\API\bin\System.Text.Encodings.Web.dll
+D:\project\new\SERVER\API\bin\System.Web.Cors.dll
+D:\project\new\SERVER\API\bin\System.Web.Helpers.dll
+D:\project\new\SERVER\API\bin\System.Web.Http.Cors.dll
+D:\project\new\SERVER\API\bin\System.Web.Http.dll
+D:\project\new\SERVER\API\bin\System.Web.Http.WebHost.dll
+D:\project\new\SERVER\API\bin\System.Web.Mvc.dll
+D:\project\new\SERVER\API\bin\System.Web.Optimization.dll
+D:\project\new\SERVER\API\bin\System.Web.Razor.dll
+D:\project\new\SERVER\API\bin\System.Web.WebPages.Deployment.dll
+D:\project\new\SERVER\API\bin\System.Web.WebPages.dll
+D:\project\new\SERVER\API\bin\System.Web.WebPages.Razor.dll
+D:\project\new\SERVER\API\bin\WebGrease.dll
+D:\project\new\SERVER\API\bin\MongoDB.Driver.dll
+D:\project\new\SERVER\API\bin\MongoDB.Bson.dll
+D:\project\new\SERVER\API\bin\MongoDB.Driver.Core.dll
+D:\project\new\SERVER\API\bin\MongoDB.Libmongocrypt.dll
+D:\project\new\SERVER\API\bin\DnsClient.dll
+D:\project\new\SERVER\API\bin\SharpCompress.dll
+D:\project\new\SERVER\API\bin\BLL.pdb
+D:\project\new\SERVER\API\bin\BLL.dll.config
+D:\project\new\SERVER\API\bin\DAL.pdb
+D:\project\new\SERVER\API\bin\DAL.dll.config
+D:\project\new\SERVER\API\bin\Google.Apis.pdb
+D:\project\new\SERVER\API\bin\Google.Apis.xml
+D:\project\new\SERVER\API\bin\Google.Apis.Auth.pdb
+D:\project\new\SERVER\API\bin\Google.Apis.Auth.xml
+D:\project\new\SERVER\API\bin\Google.Apis.Core.pdb
+D:\project\new\SERVER\API\bin\Google.Apis.Core.xml
+D:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Cors.xml
+D:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\project\new\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\project\new\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\project\new\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\project\new\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\project\new\SERVER\API\bin\Microsoft.Extensions.Options.xml
+D:\project\new\SERVER\API\bin\Microsoft.Extensions.Primitives.xml
+D:\project\new\SERVER\API\bin\Microsoft.Net.Http.Headers.xml
+D:\project\new\SERVER\API\bin\Newtonsoft.Json.xml
+D:\project\new\SERVER\API\bin\System.Buffers.xml
+D:\project\new\SERVER\API\bin\System.Memory.xml
+D:\project\new\SERVER\API\bin\System.Net.Http.Formatting.xml
+D:\project\new\SERVER\API\bin\System.Numerics.Vectors.xml
+D:\project\new\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\project\new\SERVER\API\bin\System.Text.Encodings.Web.xml
+D:\project\new\SERVER\API\bin\System.Web.Http.xml
+D:\project\new\SERVER\API\bin\System.Web.Http.Cors.xml
+D:\project\new\SERVER\API\bin\System.Web.Helpers.xml
+D:\project\new\SERVER\API\bin\System.Web.Http.WebHost.xml
+D:\project\new\SERVER\API\bin\System.Web.Mvc.xml
+D:\project\new\SERVER\API\bin\System.Web.Optimization.xml
+D:\project\new\SERVER\API\bin\System.Web.Razor.xml
+D:\project\new\SERVER\API\bin\System.Web.WebPages.xml
+D:\project\new\SERVER\API\bin\System.Web.WebPages.Deployment.xml
+D:\project\new\SERVER\API\bin\System.Web.WebPages.Razor.xml
+D:\project\new\SERVER\API\bin\Antlr3.Runtime.pdb
+D:\project\new\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project\new\SERVER\API\bin\MongoDB.Driver.xml
+D:\project\new\SERVER\API\bin\MongoDB.Bson.xml
+D:\project\new\SERVER\API\bin\MongoDB.Driver.Core.xml
+D:\project\new\SERVER\API\bin\DnsClient.xml
+D:\project\new\SERVER\API\obj\Debug\API.csproj.AssemblyReference.cache
+D:\project\new\SERVER\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\project\new\SERVER\API\obj\Debug\API.csproj.CopyComplete
+D:\project\new\SERVER\API\obj\Debug\API.dll
+D:\project\new\SERVER\API\obj\Debug\API.pdb
+E:\project\new\SERVER\API\bin\libzstd.dll
+E:\project\new\SERVER\API\bin\snappy32.dll
+E:\project\new\SERVER\API\bin\snappy64.dll
+E:\project\new\SERVER\API\bin\libsnappy64.so
+E:\project\new\SERVER\API\bin\libzstd.so
+E:\project\new\SERVER\API\bin\libsnappy64.dylib
+E:\project\new\SERVER\API\bin\libzstd.dylib
+E:\project\new\SERVER\API\bin\mongocrypt.dll
+E:\project\new\SERVER\API\bin\API.dll.config
+E:\project\new\SERVER\API\bin\API.dll
+E:\project\new\SERVER\API\bin\API.pdb
+E:\project\new\SERVER\API\bin\roslyn\csc.exe
+E:\project\new\SERVER\API\bin\roslyn\csc.exe.config
+E:\project\new\SERVER\API\bin\roslyn\csc.rsp
+E:\project\new\SERVER\API\bin\roslyn\csi.exe
+E:\project\new\SERVER\API\bin\roslyn\csi.exe.config
+E:\project\new\SERVER\API\bin\roslyn\csi.rsp
+E:\project\new\SERVER\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\project\new\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\project\new\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\project\new\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\project\new\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\project\new\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\project\new\SERVER\API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\project\new\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\project\new\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\project\new\SERVER\API\bin\roslyn\Microsoft.Managed.Core.targets
+E:\project\new\SERVER\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\project\new\SERVER\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\project\new\SERVER\API\bin\roslyn\System.AppContext.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Collections.Immutable.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Console.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Globalization.Calendars.dll
+E:\project\new\SERVER\API\bin\roslyn\System.IO.Compression.dll
+E:\project\new\SERVER\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\project\new\SERVER\API\bin\roslyn\System.IO.FileSystem.dll
+E:\project\new\SERVER\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Net.Http.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Net.Sockets.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Reflection.Metadata.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\project\new\SERVER\API\bin\roslyn\System.ValueTuple.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Xml.XmlDocument.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Xml.XPath.dll
+E:\project\new\SERVER\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\project\new\SERVER\API\bin\roslyn\vbc.exe
+E:\project\new\SERVER\API\bin\roslyn\vbc.exe.config
+E:\project\new\SERVER\API\bin\roslyn\vbc.rsp
+E:\project\new\SERVER\API\bin\roslyn\VBCSCompiler.exe
+E:\project\new\SERVER\API\bin\roslyn\VBCSCompiler.exe.config
+E:\project\new\SERVER\API\bin\Antlr3.Runtime.dll
+E:\project\new\SERVER\API\bin\BLL.dll
+E:\project\new\SERVER\API\bin\DAL.dll
+E:\project\new\SERVER\API\bin\Google.Apis.Auth.dll
+E:\project\new\SERVER\API\bin\Google.Apis.Auth.PlatformServices.dll
+E:\project\new\SERVER\API\bin\Google.Apis.Core.dll
+E:\project\new\SERVER\API\bin\Google.Apis.dll
+E:\project\new\SERVER\API\bin\Google.Apis.PlatformServices.dll
+E:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Cors.dll
+E:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\project\new\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\project\new\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\project\new\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\project\new\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\project\new\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\project\new\SERVER\API\bin\Microsoft.Extensions.Options.dll
+E:\project\new\SERVER\API\bin\Microsoft.Extensions.Primitives.dll
+E:\project\new\SERVER\API\bin\Microsoft.Net.Http.Headers.dll
+E:\project\new\SERVER\API\bin\Microsoft.Web.Infrastructure.dll
+E:\project\new\SERVER\API\bin\Newtonsoft.Json.dll
+E:\project\new\SERVER\API\bin\System.Buffers.dll
+E:\project\new\SERVER\API\bin\System.ComponentModel.Annotations.dll
+E:\project\new\SERVER\API\bin\System.Memory.dll
+E:\project\new\SERVER\API\bin\System.Net.Http.Formatting.dll
+E:\project\new\SERVER\API\bin\System.Numerics.Vectors.dll
+E:\project\new\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\project\new\SERVER\API\bin\System.Text.Encodings.Web.dll
+E:\project\new\SERVER\API\bin\System.Web.Cors.dll
+E:\project\new\SERVER\API\bin\System.Web.Helpers.dll
+E:\project\new\SERVER\API\bin\System.Web.Http.Cors.dll
+E:\project\new\SERVER\API\bin\System.Web.Http.dll
+E:\project\new\SERVER\API\bin\System.Web.Http.WebHost.dll
+E:\project\new\SERVER\API\bin\System.Web.Mvc.dll
+E:\project\new\SERVER\API\bin\System.Web.Optimization.dll
+E:\project\new\SERVER\API\bin\System.Web.Razor.dll
+E:\project\new\SERVER\API\bin\System.Web.WebPages.Deployment.dll
+E:\project\new\SERVER\API\bin\System.Web.WebPages.dll
+E:\project\new\SERVER\API\bin\System.Web.WebPages.Razor.dll
+E:\project\new\SERVER\API\bin\WebGrease.dll
+E:\project\new\SERVER\API\bin\MongoDB.Driver.dll
+E:\project\new\SERVER\API\bin\MongoDB.Bson.dll
+E:\project\new\SERVER\API\bin\MongoDB.Driver.Core.dll
+E:\project\new\SERVER\API\bin\MongoDB.Libmongocrypt.dll
+E:\project\new\SERVER\API\bin\DnsClient.dll
+E:\project\new\SERVER\API\bin\SharpCompress.dll
+E:\project\new\SERVER\API\bin\BLL.pdb
+E:\project\new\SERVER\API\bin\BLL.dll.config
+E:\project\new\SERVER\API\bin\DAL.pdb
+E:\project\new\SERVER\API\bin\DAL.dll.config
+E:\project\new\SERVER\API\bin\Google.Apis.pdb
+E:\project\new\SERVER\API\bin\Google.Apis.xml
+E:\project\new\SERVER\API\bin\Google.Apis.Auth.pdb
+E:\project\new\SERVER\API\bin\Google.Apis.Auth.xml
+E:\project\new\SERVER\API\bin\Google.Apis.Core.pdb
+E:\project\new\SERVER\API\bin\Google.Apis.Core.xml
+E:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Cors.xml
+E:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\project\new\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\project\new\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\project\new\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\project\new\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\project\new\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\project\new\SERVER\API\bin\Microsoft.Extensions.Options.xml
+E:\project\new\SERVER\API\bin\Microsoft.Extensions.Primitives.xml
+E:\project\new\SERVER\API\bin\Microsoft.Net.Http.Headers.xml
+E:\project\new\SERVER\API\bin\Newtonsoft.Json.xml
+E:\project\new\SERVER\API\bin\System.Buffers.xml
+E:\project\new\SERVER\API\bin\System.Memory.xml
+E:\project\new\SERVER\API\bin\System.Net.Http.Formatting.xml
+E:\project\new\SERVER\API\bin\System.Numerics.Vectors.xml
+E:\project\new\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\project\new\SERVER\API\bin\System.Text.Encodings.Web.xml
+E:\project\new\SERVER\API\bin\System.Web.Http.xml
+E:\project\new\SERVER\API\bin\System.Web.Http.Cors.xml
+E:\project\new\SERVER\API\bin\System.Web.Helpers.xml
+E:\project\new\SERVER\API\bin\System.Web.Http.WebHost.xml
+E:\project\new\SERVER\API\bin\System.Web.Mvc.xml
+E:\project\new\SERVER\API\bin\System.Web.Optimization.xml
+E:\project\new\SERVER\API\bin\System.Web.Razor.xml
+E:\project\new\SERVER\API\bin\System.Web.WebPages.xml
+E:\project\new\SERVER\API\bin\System.Web.WebPages.Deployment.xml
+E:\project\new\SERVER\API\bin\System.Web.WebPages.Razor.xml
+E:\project\new\SERVER\API\bin\Antlr3.Runtime.pdb
+E:\project\new\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\project\new\SERVER\API\bin\MongoDB.Driver.xml
+E:\project\new\SERVER\API\bin\MongoDB.Bson.xml
+E:\project\new\SERVER\API\bin\MongoDB.Driver.Core.xml
+E:\project\new\SERVER\API\bin\DnsClient.xml
+E:\project\new\SERVER\API\obj\Debug\API.csproj.AssemblyReference.cache
+E:\project\new\SERVER\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+E:\project\new\SERVER\API\obj\Debug\API.csproj.CopyComplete
+E:\project\new\SERVER\API\obj\Debug\API.dll
+E:\project\new\SERVER\API\obj\Debug\API.pdb
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\libzstd.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\snappy32.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\snappy64.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\libsnappy64.so
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\libzstd.so
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\libsnappy64.dylib
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\libzstd.dylib
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\mongocrypt.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\API.dll.config
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\API.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\API.pdb
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\csc.exe
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\csc.exe.config
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\csc.rsp
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\csi.exe
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\csi.exe.config
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\csi.rsp
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.AppContext.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Console.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.IO.Compression.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Net.Http.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.ValueTuple.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\vbc.exe
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\vbc.exe.config
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\vbc.rsp
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Antlr3.Runtime.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\BLL.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\DAL.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Google.Apis.Auth.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Google.Apis.Core.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Google.Apis.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Google.Apis.PlatformServices.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.Options.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Newtonsoft.Json.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Buffers.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.ComponentModel.Annotations.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Memory.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Net.Http.Formatting.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Numerics.Vectors.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Text.Encodings.Web.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.Cors.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.Helpers.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.Http.Cors.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.Http.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.Http.WebHost.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.Mvc.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.Optimization.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.Razor.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.WebPages.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\WebGrease.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\MongoDB.Driver.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\MongoDB.Bson.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\MongoDB.Driver.Core.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\MongoDB.Libmongocrypt.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\DnsClient.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\SharpCompress.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\BLL.pdb
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\BLL.dll.config
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\DAL.pdb
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\DAL.dll.config
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Google.Apis.pdb
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Google.Apis.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Google.Apis.Auth.pdb
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Google.Apis.Auth.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Google.Apis.Core.pdb
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Google.Apis.Core.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.Options.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Newtonsoft.Json.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Buffers.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Memory.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Net.Http.Formatting.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Numerics.Vectors.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Text.Encodings.Web.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.Http.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.Http.Cors.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.Helpers.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.Http.WebHost.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.Mvc.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.Optimization.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.Razor.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.WebPages.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Antlr3.Runtime.pdb
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\MongoDB.Driver.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\MongoDB.Bson.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\MongoDB.Driver.Core.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\bin\DnsClient.xml
+C:\Users\BarO\Downloads\simi\SERVER\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\Users\BarO\Downloads\simi\SERVER\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\BarO\Downloads\simi\SERVER\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\BarO\Downloads\simi\SERVER\API\obj\Debug\API.dll
+C:\Users\BarO\Downloads\simi\SERVER\API\obj\Debug\API.pdb
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\libzstd.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\snappy32.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\snappy64.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\libsnappy64.so
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\libzstd.so
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\libsnappy64.dylib
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\libzstd.dylib
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\mongocrypt.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\API.dll.config
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\API.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\API.pdb
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\csc.exe
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\csc.exe.config
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\csc.rsp
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\csi.exe
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\csi.exe.config
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\csi.rsp
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.Managed.Core.targets
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.AppContext.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Collections.Immutable.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Console.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Globalization.Calendars.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.IO.Compression.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.IO.FileSystem.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Net.Http.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Net.Sockets.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Reflection.Metadata.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.ValueTuple.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Xml.XmlDocument.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Xml.XPath.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\vbc.exe
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\vbc.exe.config
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\vbc.rsp
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\VBCSCompiler.exe
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\roslyn\VBCSCompiler.exe.config
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Antlr3.Runtime.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\BLL.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\DAL.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Google.Apis.Auth.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Google.Apis.Auth.PlatformServices.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Google.Apis.Core.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Google.Apis.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Google.Apis.PlatformServices.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.AspNetCore.Cors.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.Options.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.Primitives.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.Net.Http.Headers.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.Web.Infrastructure.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Newtonsoft.Json.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Buffers.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.ComponentModel.Annotations.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Memory.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Net.Http.Formatting.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Numerics.Vectors.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Text.Encodings.Web.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.Cors.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.Helpers.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.Http.Cors.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.Http.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.Http.WebHost.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.Mvc.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.Optimization.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.Razor.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.WebPages.Deployment.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.WebPages.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.WebPages.Razor.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\WebGrease.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\MongoDB.Driver.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\MongoDB.Bson.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\MongoDB.Driver.Core.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\MongoDB.Libmongocrypt.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\DnsClient.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\SharpCompress.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\BLL.pdb
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\BLL.dll.config
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\DAL.pdb
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\DAL.dll.config
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Google.Apis.pdb
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Google.Apis.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Google.Apis.Auth.pdb
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Google.Apis.Auth.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Google.Apis.Core.pdb
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Google.Apis.Core.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.AspNetCore.Cors.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.Options.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.Extensions.Primitives.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.Net.Http.Headers.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Newtonsoft.Json.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Buffers.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Memory.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Net.Http.Formatting.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Numerics.Vectors.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Text.Encodings.Web.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.Http.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.Http.Cors.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.Helpers.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.Http.WebHost.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.Mvc.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.Optimization.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.Razor.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.WebPages.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.WebPages.Deployment.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\System.Web.WebPages.Razor.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Antlr3.Runtime.pdb
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\MongoDB.Driver.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\MongoDB.Bson.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\MongoDB.Driver.Core.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\bin\DnsClient.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\obj\Debug\API.csproj.AssemblyReference.cache
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\obj\Debug\API.csproj.CopyComplete
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\obj\Debug\API.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\API\obj\Debug\API.pdb
+E:\project\simi\SERVER\API\bin\libzstd.dll
+E:\project\simi\SERVER\API\bin\snappy32.dll
+E:\project\simi\SERVER\API\bin\snappy64.dll
+E:\project\simi\SERVER\API\bin\libsnappy64.so
+E:\project\simi\SERVER\API\bin\libzstd.so
+E:\project\simi\SERVER\API\bin\libsnappy64.dylib
+E:\project\simi\SERVER\API\bin\libzstd.dylib
+E:\project\simi\SERVER\API\bin\mongocrypt.dll
+E:\project\simi\SERVER\API\bin\API.dll.config
+E:\project\simi\SERVER\API\bin\API.dll
+E:\project\simi\SERVER\API\bin\API.pdb
+E:\project\simi\SERVER\API\bin\roslyn\csc.exe
+E:\project\simi\SERVER\API\bin\roslyn\csc.exe.config
+E:\project\simi\SERVER\API\bin\roslyn\csc.rsp
+E:\project\simi\SERVER\API\bin\roslyn\csi.exe
+E:\project\simi\SERVER\API\bin\roslyn\csi.exe.config
+E:\project\simi\SERVER\API\bin\roslyn\csi.rsp
+E:\project\simi\SERVER\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\project\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\project\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\project\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\project\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\project\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\project\simi\SERVER\API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\project\simi\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\project\simi\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\project\simi\SERVER\API\bin\roslyn\Microsoft.Managed.Core.targets
+E:\project\simi\SERVER\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\project\simi\SERVER\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.AppContext.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Collections.Immutable.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Console.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Globalization.Calendars.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.IO.Compression.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.IO.FileSystem.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Net.Http.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Net.Sockets.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Reflection.Metadata.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.ValueTuple.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Xml.XmlDocument.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Xml.XPath.dll
+E:\project\simi\SERVER\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\project\simi\SERVER\API\bin\roslyn\vbc.exe
+E:\project\simi\SERVER\API\bin\roslyn\vbc.exe.config
+E:\project\simi\SERVER\API\bin\roslyn\vbc.rsp
+E:\project\simi\SERVER\API\bin\roslyn\VBCSCompiler.exe
+E:\project\simi\SERVER\API\bin\roslyn\VBCSCompiler.exe.config
+E:\project\simi\SERVER\API\bin\Antlr3.Runtime.dll
+E:\project\simi\SERVER\API\bin\BLL.dll
+E:\project\simi\SERVER\API\bin\DAL.dll
+E:\project\simi\SERVER\API\bin\Google.Apis.Auth.dll
+E:\project\simi\SERVER\API\bin\Google.Apis.Auth.PlatformServices.dll
+E:\project\simi\SERVER\API\bin\Google.Apis.Core.dll
+E:\project\simi\SERVER\API\bin\Google.Apis.dll
+E:\project\simi\SERVER\API\bin\Google.Apis.PlatformServices.dll
+E:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Cors.dll
+E:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\project\simi\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\project\simi\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\project\simi\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\project\simi\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\project\simi\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\project\simi\SERVER\API\bin\Microsoft.Extensions.Options.dll
+E:\project\simi\SERVER\API\bin\Microsoft.Extensions.Primitives.dll
+E:\project\simi\SERVER\API\bin\Microsoft.Net.Http.Headers.dll
+E:\project\simi\SERVER\API\bin\Microsoft.Web.Infrastructure.dll
+E:\project\simi\SERVER\API\bin\Newtonsoft.Json.dll
+E:\project\simi\SERVER\API\bin\System.Buffers.dll
+E:\project\simi\SERVER\API\bin\System.ComponentModel.Annotations.dll
+E:\project\simi\SERVER\API\bin\System.Memory.dll
+E:\project\simi\SERVER\API\bin\System.Net.Http.Formatting.dll
+E:\project\simi\SERVER\API\bin\System.Numerics.Vectors.dll
+E:\project\simi\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\project\simi\SERVER\API\bin\System.Text.Encodings.Web.dll
+E:\project\simi\SERVER\API\bin\System.Web.Cors.dll
+E:\project\simi\SERVER\API\bin\System.Web.Helpers.dll
+E:\project\simi\SERVER\API\bin\System.Web.Http.Cors.dll
+E:\project\simi\SERVER\API\bin\System.Web.Http.dll
+E:\project\simi\SERVER\API\bin\System.Web.Http.WebHost.dll
+E:\project\simi\SERVER\API\bin\System.Web.Mvc.dll
+E:\project\simi\SERVER\API\bin\System.Web.Optimization.dll
+E:\project\simi\SERVER\API\bin\System.Web.Razor.dll
+E:\project\simi\SERVER\API\bin\System.Web.WebPages.Deployment.dll
+E:\project\simi\SERVER\API\bin\System.Web.WebPages.dll
+E:\project\simi\SERVER\API\bin\System.Web.WebPages.Razor.dll
+E:\project\simi\SERVER\API\bin\WebGrease.dll
+E:\project\simi\SERVER\API\bin\MongoDB.Driver.dll
+E:\project\simi\SERVER\API\bin\MongoDB.Bson.dll
+E:\project\simi\SERVER\API\bin\MongoDB.Driver.Core.dll
+E:\project\simi\SERVER\API\bin\MongoDB.Libmongocrypt.dll
+E:\project\simi\SERVER\API\bin\DnsClient.dll
+E:\project\simi\SERVER\API\bin\SharpCompress.dll
+E:\project\simi\SERVER\API\bin\BLL.pdb
+E:\project\simi\SERVER\API\bin\BLL.dll.config
+E:\project\simi\SERVER\API\bin\DAL.pdb
+E:\project\simi\SERVER\API\bin\DAL.dll.config
+E:\project\simi\SERVER\API\bin\Google.Apis.pdb
+E:\project\simi\SERVER\API\bin\Google.Apis.xml
+E:\project\simi\SERVER\API\bin\Google.Apis.Auth.pdb
+E:\project\simi\SERVER\API\bin\Google.Apis.Auth.xml
+E:\project\simi\SERVER\API\bin\Google.Apis.Core.pdb
+E:\project\simi\SERVER\API\bin\Google.Apis.Core.xml
+E:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Cors.xml
+E:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\project\simi\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\project\simi\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\project\simi\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\project\simi\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\project\simi\SERVER\API\bin\Microsoft.Extensions.Options.xml
+E:\project\simi\SERVER\API\bin\Microsoft.Extensions.Primitives.xml
+E:\project\simi\SERVER\API\bin\Microsoft.Net.Http.Headers.xml
+E:\project\simi\SERVER\API\bin\Newtonsoft.Json.xml
+E:\project\simi\SERVER\API\bin\System.Buffers.xml
+E:\project\simi\SERVER\API\bin\System.Memory.xml
+E:\project\simi\SERVER\API\bin\System.Net.Http.Formatting.xml
+E:\project\simi\SERVER\API\bin\System.Numerics.Vectors.xml
+E:\project\simi\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\project\simi\SERVER\API\bin\System.Text.Encodings.Web.xml
+E:\project\simi\SERVER\API\bin\System.Web.Http.xml
+E:\project\simi\SERVER\API\bin\System.Web.Http.Cors.xml
+E:\project\simi\SERVER\API\bin\System.Web.Helpers.xml
+E:\project\simi\SERVER\API\bin\System.Web.Http.WebHost.xml
+E:\project\simi\SERVER\API\bin\System.Web.Mvc.xml
+E:\project\simi\SERVER\API\bin\System.Web.Optimization.xml
+E:\project\simi\SERVER\API\bin\System.Web.Razor.xml
+E:\project\simi\SERVER\API\bin\System.Web.WebPages.xml
+E:\project\simi\SERVER\API\bin\System.Web.WebPages.Deployment.xml
+E:\project\simi\SERVER\API\bin\System.Web.WebPages.Razor.xml
+E:\project\simi\SERVER\API\bin\Antlr3.Runtime.pdb
+E:\project\simi\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\project\simi\SERVER\API\bin\MongoDB.Driver.xml
+E:\project\simi\SERVER\API\bin\MongoDB.Bson.xml
+E:\project\simi\SERVER\API\bin\MongoDB.Driver.Core.xml
+E:\project\simi\SERVER\API\bin\DnsClient.xml
+E:\project\simi\SERVER\API\obj\Debug\API.csproj.AssemblyReference.cache
+E:\project\simi\SERVER\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+E:\project\simi\SERVER\API\obj\Debug\API.csproj.CopyComplete
+E:\project\simi\SERVER\API\obj\Debug\API.dll
+E:\project\simi\SERVER\API\obj\Debug\API.pdb
+I:\project\simi\SERVER\API\bin\libzstd.dll
+I:\project\simi\SERVER\API\bin\snappy32.dll
+I:\project\simi\SERVER\API\bin\snappy64.dll
+I:\project\simi\SERVER\API\bin\libsnappy64.so
+I:\project\simi\SERVER\API\bin\libzstd.so
+I:\project\simi\SERVER\API\bin\libsnappy64.dylib
+I:\project\simi\SERVER\API\bin\libzstd.dylib
+I:\project\simi\SERVER\API\bin\mongocrypt.dll
+I:\project\simi\SERVER\API\bin\API.dll.config
+I:\project\simi\SERVER\API\bin\API.dll
+I:\project\simi\SERVER\API\bin\API.pdb
+I:\project\simi\SERVER\API\bin\roslyn\csc.exe
+I:\project\simi\SERVER\API\bin\roslyn\csc.exe.config
+I:\project\simi\SERVER\API\bin\roslyn\csc.rsp
+I:\project\simi\SERVER\API\bin\roslyn\csi.exe
+I:\project\simi\SERVER\API\bin\roslyn\csi.exe.config
+I:\project\simi\SERVER\API\bin\roslyn\csi.rsp
+I:\project\simi\SERVER\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\project\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\project\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\project\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\project\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\project\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\project\simi\SERVER\API\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\project\simi\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\project\simi\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\project\simi\SERVER\API\bin\roslyn\Microsoft.Managed.Core.targets
+I:\project\simi\SERVER\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\project\simi\SERVER\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.AppContext.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Collections.Immutable.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Console.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Globalization.Calendars.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.IO.Compression.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.IO.FileSystem.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Net.Http.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Net.Sockets.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Reflection.Metadata.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.ValueTuple.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Xml.XmlDocument.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Xml.XPath.dll
+I:\project\simi\SERVER\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\project\simi\SERVER\API\bin\roslyn\vbc.exe
+I:\project\simi\SERVER\API\bin\roslyn\vbc.exe.config
+I:\project\simi\SERVER\API\bin\roslyn\vbc.rsp
+I:\project\simi\SERVER\API\bin\roslyn\VBCSCompiler.exe
+I:\project\simi\SERVER\API\bin\roslyn\VBCSCompiler.exe.config
+I:\project\simi\SERVER\API\bin\Antlr3.Runtime.dll
+I:\project\simi\SERVER\API\bin\BLL.dll
+I:\project\simi\SERVER\API\bin\DAL.dll
+I:\project\simi\SERVER\API\bin\Google.Apis.Auth.dll
+I:\project\simi\SERVER\API\bin\Google.Apis.Auth.PlatformServices.dll
+I:\project\simi\SERVER\API\bin\Google.Apis.Core.dll
+I:\project\simi\SERVER\API\bin\Google.Apis.dll
+I:\project\simi\SERVER\API\bin\Google.Apis.PlatformServices.dll
+I:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Cors.dll
+I:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+I:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+I:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.dll
+I:\project\simi\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\project\simi\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\project\simi\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\project\simi\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\project\simi\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+I:\project\simi\SERVER\API\bin\Microsoft.Extensions.Options.dll
+I:\project\simi\SERVER\API\bin\Microsoft.Extensions.Primitives.dll
+I:\project\simi\SERVER\API\bin\Microsoft.Net.Http.Headers.dll
+I:\project\simi\SERVER\API\bin\Microsoft.Web.Infrastructure.dll
+I:\project\simi\SERVER\API\bin\Newtonsoft.Json.dll
+I:\project\simi\SERVER\API\bin\System.Buffers.dll
+I:\project\simi\SERVER\API\bin\System.ComponentModel.Annotations.dll
+I:\project\simi\SERVER\API\bin\System.Memory.dll
+I:\project\simi\SERVER\API\bin\System.Net.Http.Formatting.dll
+I:\project\simi\SERVER\API\bin\System.Numerics.Vectors.dll
+I:\project\simi\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+I:\project\simi\SERVER\API\bin\System.Text.Encodings.Web.dll
+I:\project\simi\SERVER\API\bin\System.Web.Cors.dll
+I:\project\simi\SERVER\API\bin\System.Web.Helpers.dll
+I:\project\simi\SERVER\API\bin\System.Web.Http.Cors.dll
+I:\project\simi\SERVER\API\bin\System.Web.Http.dll
+I:\project\simi\SERVER\API\bin\System.Web.Http.WebHost.dll
+I:\project\simi\SERVER\API\bin\System.Web.Mvc.dll
+I:\project\simi\SERVER\API\bin\System.Web.Optimization.dll
+I:\project\simi\SERVER\API\bin\System.Web.Razor.dll
+I:\project\simi\SERVER\API\bin\System.Web.WebPages.Deployment.dll
+I:\project\simi\SERVER\API\bin\System.Web.WebPages.dll
+I:\project\simi\SERVER\API\bin\System.Web.WebPages.Razor.dll
+I:\project\simi\SERVER\API\bin\WebGrease.dll
+I:\project\simi\SERVER\API\bin\MongoDB.Driver.dll
+I:\project\simi\SERVER\API\bin\MongoDB.Bson.dll
+I:\project\simi\SERVER\API\bin\MongoDB.Driver.Core.dll
+I:\project\simi\SERVER\API\bin\MongoDB.Libmongocrypt.dll
+I:\project\simi\SERVER\API\bin\DnsClient.dll
+I:\project\simi\SERVER\API\bin\SharpCompress.dll
+I:\project\simi\SERVER\API\bin\BLL.pdb
+I:\project\simi\SERVER\API\bin\BLL.dll.config
+I:\project\simi\SERVER\API\bin\DAL.pdb
+I:\project\simi\SERVER\API\bin\DAL.dll.config
+I:\project\simi\SERVER\API\bin\Google.Apis.pdb
+I:\project\simi\SERVER\API\bin\Google.Apis.xml
+I:\project\simi\SERVER\API\bin\Google.Apis.Auth.pdb
+I:\project\simi\SERVER\API\bin\Google.Apis.Auth.xml
+I:\project\simi\SERVER\API\bin\Google.Apis.Core.pdb
+I:\project\simi\SERVER\API\bin\Google.Apis.Core.xml
+I:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Cors.xml
+I:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+I:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+I:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.xml
+I:\project\simi\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+I:\project\simi\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+I:\project\simi\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+I:\project\simi\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+I:\project\simi\SERVER\API\bin\Microsoft.Extensions.Options.xml
+I:\project\simi\SERVER\API\bin\Microsoft.Extensions.Primitives.xml
+I:\project\simi\SERVER\API\bin\Microsoft.Net.Http.Headers.xml
+I:\project\simi\SERVER\API\bin\Newtonsoft.Json.xml
+I:\project\simi\SERVER\API\bin\System.Buffers.xml
+I:\project\simi\SERVER\API\bin\System.Memory.xml
+I:\project\simi\SERVER\API\bin\System.Net.Http.Formatting.xml
+I:\project\simi\SERVER\API\bin\System.Numerics.Vectors.xml
+I:\project\simi\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+I:\project\simi\SERVER\API\bin\System.Text.Encodings.Web.xml
+I:\project\simi\SERVER\API\bin\System.Web.Http.xml
+I:\project\simi\SERVER\API\bin\System.Web.Http.Cors.xml
+I:\project\simi\SERVER\API\bin\System.Web.Helpers.xml
+I:\project\simi\SERVER\API\bin\System.Web.Http.WebHost.xml
+I:\project\simi\SERVER\API\bin\System.Web.Mvc.xml
+I:\project\simi\SERVER\API\bin\System.Web.Optimization.xml
+I:\project\simi\SERVER\API\bin\System.Web.Razor.xml
+I:\project\simi\SERVER\API\bin\System.Web.WebPages.xml
+I:\project\simi\SERVER\API\bin\System.Web.WebPages.Deployment.xml
+I:\project\simi\SERVER\API\bin\System.Web.WebPages.Razor.xml
+I:\project\simi\SERVER\API\bin\Antlr3.Runtime.pdb
+I:\project\simi\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\project\simi\SERVER\API\bin\MongoDB.Driver.xml
+I:\project\simi\SERVER\API\bin\MongoDB.Bson.xml
+I:\project\simi\SERVER\API\bin\MongoDB.Driver.Core.xml
+I:\project\simi\SERVER\API\bin\DnsClient.xml
+I:\project\simi\SERVER\API\obj\Debug\API.csproj.AssemblyReference.cache
+I:\project\simi\SERVER\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+I:\project\simi\SERVER\API\obj\Debug\API.csproj.CopyComplete
+I:\project\simi\SERVER\API\obj\Debug\API.dll
+I:\project\simi\SERVER\API\obj\Debug\API.pdb
+H:\project\simi\SERVER\API\bin\libzstd.dll
+H:\project\simi\SERVER\API\bin\snappy32.dll
+H:\project\simi\SERVER\API\bin\snappy64.dll
+H:\project\simi\SERVER\API\bin\libsnappy64.so
+H:\project\simi\SERVER\API\bin\libzstd.so
+H:\project\simi\SERVER\API\bin\libsnappy64.dylib
+H:\project\simi\SERVER\API\bin\libzstd.dylib
+H:\project\simi\SERVER\API\bin\mongocrypt.dll
+H:\project\simi\SERVER\API\bin\API.dll.config
+H:\project\simi\SERVER\API\bin\API.dll
+H:\project\simi\SERVER\API\bin\API.pdb
+H:\project\simi\SERVER\API\bin\roslyn\csc.exe
+H:\project\simi\SERVER\API\bin\roslyn\csc.exe.config
+H:\project\simi\SERVER\API\bin\roslyn\csc.rsp
+H:\project\simi\SERVER\API\bin\roslyn\csi.exe
+H:\project\simi\SERVER\API\bin\roslyn\csi.exe.config
+H:\project\simi\SERVER\API\bin\roslyn\csi.rsp
+H:\project\simi\SERVER\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\project\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\project\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\project\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\project\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\project\simi\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\project\simi\SERVER\API\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\project\simi\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\project\simi\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\project\simi\SERVER\API\bin\roslyn\Microsoft.Managed.Core.targets
+H:\project\simi\SERVER\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\project\simi\SERVER\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.AppContext.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Collections.Immutable.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Console.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Globalization.Calendars.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.IO.Compression.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.IO.FileSystem.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Net.Http.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Net.Sockets.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Reflection.Metadata.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.ValueTuple.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Xml.XmlDocument.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Xml.XPath.dll
+H:\project\simi\SERVER\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\project\simi\SERVER\API\bin\roslyn\vbc.exe
+H:\project\simi\SERVER\API\bin\roslyn\vbc.exe.config
+H:\project\simi\SERVER\API\bin\roslyn\vbc.rsp
+H:\project\simi\SERVER\API\bin\roslyn\VBCSCompiler.exe
+H:\project\simi\SERVER\API\bin\roslyn\VBCSCompiler.exe.config
+H:\project\simi\SERVER\API\bin\Antlr3.Runtime.dll
+H:\project\simi\SERVER\API\bin\BLL.dll
+H:\project\simi\SERVER\API\bin\DAL.dll
+H:\project\simi\SERVER\API\bin\Google.Apis.Auth.dll
+H:\project\simi\SERVER\API\bin\Google.Apis.Auth.PlatformServices.dll
+H:\project\simi\SERVER\API\bin\Google.Apis.Core.dll
+H:\project\simi\SERVER\API\bin\Google.Apis.dll
+H:\project\simi\SERVER\API\bin\Google.Apis.PlatformServices.dll
+H:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Cors.dll
+H:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+H:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+H:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.dll
+H:\project\simi\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\project\simi\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\project\simi\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\project\simi\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\project\simi\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+H:\project\simi\SERVER\API\bin\Microsoft.Extensions.Options.dll
+H:\project\simi\SERVER\API\bin\Microsoft.Extensions.Primitives.dll
+H:\project\simi\SERVER\API\bin\Microsoft.Net.Http.Headers.dll
+H:\project\simi\SERVER\API\bin\Microsoft.Web.Infrastructure.dll
+H:\project\simi\SERVER\API\bin\Newtonsoft.Json.dll
+H:\project\simi\SERVER\API\bin\System.Buffers.dll
+H:\project\simi\SERVER\API\bin\System.ComponentModel.Annotations.dll
+H:\project\simi\SERVER\API\bin\System.Memory.dll
+H:\project\simi\SERVER\API\bin\System.Net.Http.Formatting.dll
+H:\project\simi\SERVER\API\bin\System.Numerics.Vectors.dll
+H:\project\simi\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+H:\project\simi\SERVER\API\bin\System.Text.Encodings.Web.dll
+H:\project\simi\SERVER\API\bin\System.Web.Cors.dll
+H:\project\simi\SERVER\API\bin\System.Web.Helpers.dll
+H:\project\simi\SERVER\API\bin\System.Web.Http.Cors.dll
+H:\project\simi\SERVER\API\bin\System.Web.Http.dll
+H:\project\simi\SERVER\API\bin\System.Web.Http.WebHost.dll
+H:\project\simi\SERVER\API\bin\System.Web.Mvc.dll
+H:\project\simi\SERVER\API\bin\System.Web.Optimization.dll
+H:\project\simi\SERVER\API\bin\System.Web.Razor.dll
+H:\project\simi\SERVER\API\bin\System.Web.WebPages.Deployment.dll
+H:\project\simi\SERVER\API\bin\System.Web.WebPages.dll
+H:\project\simi\SERVER\API\bin\System.Web.WebPages.Razor.dll
+H:\project\simi\SERVER\API\bin\WebGrease.dll
+H:\project\simi\SERVER\API\bin\MongoDB.Driver.dll
+H:\project\simi\SERVER\API\bin\MongoDB.Bson.dll
+H:\project\simi\SERVER\API\bin\MongoDB.Driver.Core.dll
+H:\project\simi\SERVER\API\bin\MongoDB.Libmongocrypt.dll
+H:\project\simi\SERVER\API\bin\DnsClient.dll
+H:\project\simi\SERVER\API\bin\SharpCompress.dll
+H:\project\simi\SERVER\API\bin\BLL.pdb
+H:\project\simi\SERVER\API\bin\BLL.dll.config
+H:\project\simi\SERVER\API\bin\DAL.pdb
+H:\project\simi\SERVER\API\bin\DAL.dll.config
+H:\project\simi\SERVER\API\bin\Google.Apis.pdb
+H:\project\simi\SERVER\API\bin\Google.Apis.xml
+H:\project\simi\SERVER\API\bin\Google.Apis.Auth.pdb
+H:\project\simi\SERVER\API\bin\Google.Apis.Auth.xml
+H:\project\simi\SERVER\API\bin\Google.Apis.Core.pdb
+H:\project\simi\SERVER\API\bin\Google.Apis.Core.xml
+H:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Cors.xml
+H:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+H:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+H:\project\simi\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.xml
+H:\project\simi\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+H:\project\simi\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\project\simi\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+H:\project\simi\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+H:\project\simi\SERVER\API\bin\Microsoft.Extensions.Options.xml
+H:\project\simi\SERVER\API\bin\Microsoft.Extensions.Primitives.xml
+H:\project\simi\SERVER\API\bin\Microsoft.Net.Http.Headers.xml
+H:\project\simi\SERVER\API\bin\Newtonsoft.Json.xml
+H:\project\simi\SERVER\API\bin\System.Buffers.xml
+H:\project\simi\SERVER\API\bin\System.Memory.xml
+H:\project\simi\SERVER\API\bin\System.Net.Http.Formatting.xml
+H:\project\simi\SERVER\API\bin\System.Numerics.Vectors.xml
+H:\project\simi\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+H:\project\simi\SERVER\API\bin\System.Text.Encodings.Web.xml
+H:\project\simi\SERVER\API\bin\System.Web.Http.xml
+H:\project\simi\SERVER\API\bin\System.Web.Http.Cors.xml
+H:\project\simi\SERVER\API\bin\System.Web.Helpers.xml
+H:\project\simi\SERVER\API\bin\System.Web.Http.WebHost.xml
+H:\project\simi\SERVER\API\bin\System.Web.Mvc.xml
+H:\project\simi\SERVER\API\bin\System.Web.Optimization.xml
+H:\project\simi\SERVER\API\bin\System.Web.Razor.xml
+H:\project\simi\SERVER\API\bin\System.Web.WebPages.xml
+H:\project\simi\SERVER\API\bin\System.Web.WebPages.Deployment.xml
+H:\project\simi\SERVER\API\bin\System.Web.WebPages.Razor.xml
+H:\project\simi\SERVER\API\bin\Antlr3.Runtime.pdb
+H:\project\simi\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\project\simi\SERVER\API\bin\MongoDB.Driver.xml
+H:\project\simi\SERVER\API\bin\MongoDB.Bson.xml
+H:\project\simi\SERVER\API\bin\MongoDB.Driver.Core.xml
+H:\project\simi\SERVER\API\bin\DnsClient.xml
+H:\project\simi\SERVER\API\obj\Debug\API.csproj.AssemblyReference.cache
+H:\project\simi\SERVER\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+H:\project\simi\SERVER\API\obj\Debug\API.csproj.CopyComplete
+H:\project\simi\SERVER\API\obj\Debug\API.dll
+H:\project\simi\SERVER\API\obj\Debug\API.pdb
+G:\תיקיות אישיות\Desktop\SERVER\API\obj\Debug\API.csproj.AssemblyReference.cache
+G:\תיקיות אישיות\Desktop\SERVER\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+G:\תיקיות אישיות\Desktop\SERVER\API\obj\Debug\API.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\obj\Debug\API.pdb
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\libzstd.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\snappy32.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\snappy64.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\libsnappy64.so
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\libzstd.so
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\libsnappy64.dylib
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\libzstd.dylib
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\mongocrypt.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\API.dll.config
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\API.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\API.pdb
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\csc.exe
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\csc.exe.config
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\csc.rsp
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\csi.exe
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\csi.exe.config
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\csi.rsp
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\Microsoft.Managed.Core.targets
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.AppContext.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Collections.Immutable.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Console.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Globalization.Calendars.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.IO.Compression.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.IO.FileSystem.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Net.Http.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Net.Sockets.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Reflection.Metadata.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.ValueTuple.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Xml.XmlDocument.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Xml.XPath.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\vbc.exe
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\vbc.exe.config
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\vbc.rsp
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\VBCSCompiler.exe
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\roslyn\VBCSCompiler.exe.config
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Antlr3.Runtime.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\BLL.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\DAL.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Google.Apis.Auth.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Google.Apis.Auth.PlatformServices.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Google.Apis.Core.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Google.Apis.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Google.Apis.PlatformServices.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.AspNetCore.Cors.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.Extensions.Options.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.Extensions.Primitives.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.Net.Http.Headers.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.Web.Infrastructure.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Newtonsoft.Json.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Buffers.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.ComponentModel.Annotations.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Memory.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Net.Http.Formatting.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Numerics.Vectors.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Text.Encodings.Web.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.Cors.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.Helpers.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.Http.Cors.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.Http.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.Http.WebHost.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.Mvc.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.Optimization.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.Razor.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.WebPages.Deployment.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.WebPages.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.WebPages.Razor.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\WebGrease.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\MongoDB.Driver.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\MongoDB.Bson.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\MongoDB.Driver.Core.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\MongoDB.Libmongocrypt.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\DnsClient.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\SharpCompress.dll
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\BLL.pdb
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\BLL.dll.config
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\DAL.pdb
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\DAL.dll.config
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Google.Apis.pdb
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Google.Apis.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Google.Apis.Auth.pdb
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Google.Apis.Auth.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Google.Apis.Core.pdb
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Google.Apis.Core.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.AspNetCore.Cors.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.Extensions.Options.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.Extensions.Primitives.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.Net.Http.Headers.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Newtonsoft.Json.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Buffers.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Memory.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Net.Http.Formatting.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Numerics.Vectors.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Text.Encodings.Web.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.Http.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.Http.Cors.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.Helpers.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.Http.WebHost.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.Mvc.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.Optimization.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.Razor.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.WebPages.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.WebPages.Deployment.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\System.Web.WebPages.Razor.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Antlr3.Runtime.pdb
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\MongoDB.Driver.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\MongoDB.Bson.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\MongoDB.Driver.Core.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\bin\DnsClient.xml
+G:\תיקיות אישיות\Desktop\SERVER\API\obj\Debug\API.csproj.CopyComplete
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\libzstd.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\snappy32.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\snappy64.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\libsnappy64.so
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\libzstd.so
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\libsnappy64.dylib
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\libzstd.dylib
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\mongocrypt.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\API.dll.config
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\API.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\API.pdb
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\csc.exe
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\csc.exe.config
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\csc.rsp
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\csi.exe
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\csi.exe.config
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\csi.rsp
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\Microsoft.Managed.Core.targets
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.AppContext.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Collections.Immutable.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Console.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Globalization.Calendars.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.IO.Compression.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.IO.FileSystem.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Net.Http.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Net.Sockets.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Reflection.Metadata.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.ValueTuple.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Xml.XmlDocument.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Xml.XPath.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\vbc.exe
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\vbc.exe.config
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\vbc.rsp
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\VBCSCompiler.exe
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\roslyn\VBCSCompiler.exe.config
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Antlr3.Runtime.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\BLL.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\DAL.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Google.Apis.Auth.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Google.Apis.Auth.PlatformServices.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Google.Apis.Core.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Google.Apis.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Google.Apis.PlatformServices.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.AspNetCore.Cors.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.Extensions.Options.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.Extensions.Primitives.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.Net.Http.Headers.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.Web.Infrastructure.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Newtonsoft.Json.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Buffers.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.ComponentModel.Annotations.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Memory.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Net.Http.Formatting.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Numerics.Vectors.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Text.Encodings.Web.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.Cors.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.Helpers.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.Http.Cors.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.Http.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.Http.WebHost.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.Mvc.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.Optimization.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.Razor.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.WebPages.Deployment.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.WebPages.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.WebPages.Razor.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\WebGrease.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\MongoDB.Driver.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\MongoDB.Driver.Core.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\MongoDB.Bson.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\MongoDB.Libmongocrypt.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\DnsClient.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\SharpCompress.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\BLL.pdb
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\BLL.dll.config
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\DAL.pdb
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\DAL.dll.config
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Google.Apis.pdb
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Google.Apis.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Google.Apis.Auth.pdb
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Google.Apis.Auth.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Google.Apis.Core.pdb
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Google.Apis.Core.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.AspNetCore.Cors.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.AspNetCore.Http.Features.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.Extensions.Options.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.Extensions.Primitives.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.Net.Http.Headers.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Newtonsoft.Json.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Buffers.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Memory.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Net.Http.Formatting.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Numerics.Vectors.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Text.Encodings.Web.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.Http.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.Http.Cors.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.Helpers.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.Http.WebHost.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.Mvc.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.Optimization.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.Razor.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.WebPages.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.WebPages.Deployment.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.Web.WebPages.Razor.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Antlr3.Runtime.pdb
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\MongoDB.Driver.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\MongoDB.Driver.Core.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\MongoDB.Bson.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\DnsClient.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\obj\Debug\API.csproj.AssemblyReference.cache
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\obj\Debug\API.csproj.CopyComplete
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\obj\Debug\API.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\obj\Debug\API.pdb
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\ImageProcessor.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.ValueTuple.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\ImageProcessor.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\API\bin\System.ValueTuple.xml

@@ -1,0 +1,503 @@
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\DAL.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\DAL.pdb
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\obj\Debug\DAL.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\obj\Debug\DAL.pdb
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\libzstd.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\snappy32.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\snappy64.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\libsnappy64.so
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\libzstd.so
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\libsnappy64.dylib
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\libzstd.dylib
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\mongocrypt.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\DAL.dll.config
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\DnsClient.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\MongoDB.Bson.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\MongoDB.Driver.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\SharpCompress.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\System.Buffers.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\System.Memory.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\DnsClient.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\MongoDB.Bson.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\MongoDB.Driver.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\System.Buffers.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\System.Memory.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Comp9\Desktop\PROJECT MIRI\SERVER\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\libzstd.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\snappy32.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\snappy64.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\libsnappy64.so
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\libzstd.so
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\libsnappy64.dylib
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\libzstd.dylib
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\mongocrypt.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\DAL.dll.config
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\DAL.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\DAL.pdb
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\DnsClient.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\MongoDB.Bson.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\MongoDB.Driver.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\SharpCompress.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\System.Buffers.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\System.Memory.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\DnsClient.xml
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\MongoDB.Bson.xml
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\MongoDB.Driver.xml
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\System.Buffers.xml
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\System.Memory.xml
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Comp8\Desktop\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Comp8\Desktop\SERVER\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Comp8\Desktop\SERVER\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Comp8\Desktop\SERVER\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Comp8\Desktop\SERVER\DAL\obj\Debug\DAL.dll
+C:\Users\Comp8\Desktop\SERVER\DAL\obj\Debug\DAL.pdb
+F:\project\new\SERVER\DAL\bin\Debug\libzstd.dll
+F:\project\new\SERVER\DAL\bin\Debug\snappy32.dll
+F:\project\new\SERVER\DAL\bin\Debug\snappy64.dll
+F:\project\new\SERVER\DAL\bin\Debug\libsnappy64.so
+F:\project\new\SERVER\DAL\bin\Debug\libzstd.so
+F:\project\new\SERVER\DAL\bin\Debug\libsnappy64.dylib
+F:\project\new\SERVER\DAL\bin\Debug\libzstd.dylib
+F:\project\new\SERVER\DAL\bin\Debug\mongocrypt.dll
+F:\project\new\SERVER\DAL\bin\Debug\DAL.dll.config
+F:\project\new\SERVER\DAL\bin\Debug\DAL.dll
+F:\project\new\SERVER\DAL\bin\Debug\DAL.pdb
+F:\project\new\SERVER\DAL\bin\Debug\DnsClient.dll
+F:\project\new\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+F:\project\new\SERVER\DAL\bin\Debug\MongoDB.Bson.dll
+F:\project\new\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.dll
+F:\project\new\SERVER\DAL\bin\Debug\MongoDB.Driver.dll
+F:\project\new\SERVER\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+F:\project\new\SERVER\DAL\bin\Debug\SharpCompress.dll
+F:\project\new\SERVER\DAL\bin\Debug\System.Buffers.dll
+F:\project\new\SERVER\DAL\bin\Debug\System.Memory.dll
+F:\project\new\SERVER\DAL\bin\Debug\System.Numerics.Vectors.dll
+F:\project\new\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\project\new\SERVER\DAL\bin\Debug\System.Security.AccessControl.dll
+F:\project\new\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.dll
+F:\project\new\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\project\new\SERVER\DAL\bin\Debug\DnsClient.xml
+F:\project\new\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+F:\project\new\SERVER\DAL\bin\Debug\MongoDB.Bson.xml
+F:\project\new\SERVER\DAL\bin\Debug\MongoDB.Driver.xml
+F:\project\new\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.xml
+F:\project\new\SERVER\DAL\bin\Debug\System.Buffers.xml
+F:\project\new\SERVER\DAL\bin\Debug\System.Memory.xml
+F:\project\new\SERVER\DAL\bin\Debug\System.Numerics.Vectors.xml
+F:\project\new\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\project\new\SERVER\DAL\bin\Debug\System.Security.AccessControl.xml
+F:\project\new\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.xml
+F:\project\new\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+F:\project\new\SERVER\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\project\new\SERVER\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\project\new\SERVER\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\project\new\SERVER\DAL\obj\Debug\DAL.dll
+F:\project\new\SERVER\DAL\obj\Debug\DAL.pdb
+D:\project\new\SERVER\DAL\bin\Debug\libzstd.dll
+D:\project\new\SERVER\DAL\bin\Debug\snappy32.dll
+D:\project\new\SERVER\DAL\bin\Debug\snappy64.dll
+D:\project\new\SERVER\DAL\bin\Debug\libsnappy64.so
+D:\project\new\SERVER\DAL\bin\Debug\libzstd.so
+D:\project\new\SERVER\DAL\bin\Debug\libsnappy64.dylib
+D:\project\new\SERVER\DAL\bin\Debug\libzstd.dylib
+D:\project\new\SERVER\DAL\bin\Debug\mongocrypt.dll
+D:\project\new\SERVER\DAL\bin\Debug\DAL.dll.config
+D:\project\new\SERVER\DAL\bin\Debug\DAL.dll
+D:\project\new\SERVER\DAL\bin\Debug\DAL.pdb
+D:\project\new\SERVER\DAL\bin\Debug\DnsClient.dll
+D:\project\new\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+D:\project\new\SERVER\DAL\bin\Debug\MongoDB.Bson.dll
+D:\project\new\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.dll
+D:\project\new\SERVER\DAL\bin\Debug\MongoDB.Driver.dll
+D:\project\new\SERVER\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\project\new\SERVER\DAL\bin\Debug\SharpCompress.dll
+D:\project\new\SERVER\DAL\bin\Debug\System.Buffers.dll
+D:\project\new\SERVER\DAL\bin\Debug\System.Memory.dll
+D:\project\new\SERVER\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\project\new\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\project\new\SERVER\DAL\bin\Debug\System.Security.AccessControl.dll
+D:\project\new\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.dll
+D:\project\new\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\project\new\SERVER\DAL\bin\Debug\DnsClient.xml
+D:\project\new\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+D:\project\new\SERVER\DAL\bin\Debug\MongoDB.Bson.xml
+D:\project\new\SERVER\DAL\bin\Debug\MongoDB.Driver.xml
+D:\project\new\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.xml
+D:\project\new\SERVER\DAL\bin\Debug\System.Buffers.xml
+D:\project\new\SERVER\DAL\bin\Debug\System.Memory.xml
+D:\project\new\SERVER\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\project\new\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\project\new\SERVER\DAL\bin\Debug\System.Security.AccessControl.xml
+D:\project\new\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.xml
+D:\project\new\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\project\new\SERVER\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\project\new\SERVER\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\project\new\SERVER\DAL\obj\Debug\DAL.dll
+D:\project\new\SERVER\DAL\obj\Debug\DAL.pdb
+E:\project\new\SERVER\DAL\bin\Debug\libzstd.dll
+E:\project\new\SERVER\DAL\bin\Debug\snappy32.dll
+E:\project\new\SERVER\DAL\bin\Debug\snappy64.dll
+E:\project\new\SERVER\DAL\bin\Debug\libsnappy64.so
+E:\project\new\SERVER\DAL\bin\Debug\libzstd.so
+E:\project\new\SERVER\DAL\bin\Debug\libsnappy64.dylib
+E:\project\new\SERVER\DAL\bin\Debug\libzstd.dylib
+E:\project\new\SERVER\DAL\bin\Debug\mongocrypt.dll
+E:\project\new\SERVER\DAL\bin\Debug\DAL.dll.config
+E:\project\new\SERVER\DAL\bin\Debug\DAL.dll
+E:\project\new\SERVER\DAL\bin\Debug\DAL.pdb
+E:\project\new\SERVER\DAL\bin\Debug\DnsClient.dll
+E:\project\new\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+E:\project\new\SERVER\DAL\bin\Debug\MongoDB.Bson.dll
+E:\project\new\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.dll
+E:\project\new\SERVER\DAL\bin\Debug\MongoDB.Driver.dll
+E:\project\new\SERVER\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\project\new\SERVER\DAL\bin\Debug\SharpCompress.dll
+E:\project\new\SERVER\DAL\bin\Debug\System.Buffers.dll
+E:\project\new\SERVER\DAL\bin\Debug\System.Memory.dll
+E:\project\new\SERVER\DAL\bin\Debug\System.Numerics.Vectors.dll
+E:\project\new\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\project\new\SERVER\DAL\bin\Debug\System.Security.AccessControl.dll
+E:\project\new\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.dll
+E:\project\new\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\project\new\SERVER\DAL\bin\Debug\DnsClient.xml
+E:\project\new\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+E:\project\new\SERVER\DAL\bin\Debug\MongoDB.Bson.xml
+E:\project\new\SERVER\DAL\bin\Debug\MongoDB.Driver.xml
+E:\project\new\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.xml
+E:\project\new\SERVER\DAL\bin\Debug\System.Buffers.xml
+E:\project\new\SERVER\DAL\bin\Debug\System.Memory.xml
+E:\project\new\SERVER\DAL\bin\Debug\System.Numerics.Vectors.xml
+E:\project\new\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\project\new\SERVER\DAL\bin\Debug\System.Security.AccessControl.xml
+E:\project\new\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.xml
+E:\project\new\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\project\new\SERVER\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\project\new\SERVER\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\project\new\SERVER\DAL\obj\Debug\DAL.dll
+E:\project\new\SERVER\DAL\obj\Debug\DAL.pdb
+E:\project\new\SERVER\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\libzstd.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\snappy32.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\snappy64.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\libsnappy64.so
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\libzstd.so
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\libsnappy64.dylib
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\libzstd.dylib
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\mongocrypt.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\DAL.dll.config
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\DAL.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\DAL.pdb
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\DnsClient.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\MongoDB.Bson.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\SharpCompress.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\System.Buffers.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\System.Memory.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\System.Security.AccessControl.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\DnsClient.xml
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\MongoDB.Bson.xml
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.xml
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\System.Buffers.xml
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\System.Memory.xml
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\System.Security.AccessControl.xml
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\BarO\Downloads\simi\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\BarO\Downloads\simi\SERVER\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\BarO\Downloads\simi\SERVER\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\BarO\Downloads\simi\SERVER\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\BarO\Downloads\simi\SERVER\DAL\obj\Debug\DAL.dll
+C:\Users\BarO\Downloads\simi\SERVER\DAL\obj\Debug\DAL.pdb
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\libzstd.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\snappy32.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\snappy64.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\libsnappy64.so
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\libzstd.so
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\libsnappy64.dylib
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\libzstd.dylib
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\mongocrypt.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\DAL.dll.config
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\DAL.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\DAL.pdb
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\DnsClient.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\MongoDB.Bson.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\SharpCompress.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\System.Buffers.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\System.Memory.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\System.Numerics.Vectors.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\System.Security.AccessControl.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\DnsClient.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\MongoDB.Bson.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\System.Buffers.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\System.Memory.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\System.Numerics.Vectors.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\System.Security.AccessControl.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\obj\Debug\DAL.dll
+G:\תיקיות אישיות\Downloads\simi\SERVER\DAL\obj\Debug\DAL.pdb
+E:\project\simi\SERVER\DAL\bin\Debug\libzstd.dll
+E:\project\simi\SERVER\DAL\bin\Debug\snappy32.dll
+E:\project\simi\SERVER\DAL\bin\Debug\snappy64.dll
+E:\project\simi\SERVER\DAL\bin\Debug\libsnappy64.so
+E:\project\simi\SERVER\DAL\bin\Debug\libzstd.so
+E:\project\simi\SERVER\DAL\bin\Debug\libsnappy64.dylib
+E:\project\simi\SERVER\DAL\bin\Debug\libzstd.dylib
+E:\project\simi\SERVER\DAL\bin\Debug\mongocrypt.dll
+E:\project\simi\SERVER\DAL\bin\Debug\DAL.dll.config
+E:\project\simi\SERVER\DAL\bin\Debug\DAL.dll
+E:\project\simi\SERVER\DAL\bin\Debug\DAL.pdb
+E:\project\simi\SERVER\DAL\bin\Debug\DnsClient.dll
+E:\project\simi\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+E:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Bson.dll
+E:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.dll
+E:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.dll
+E:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\project\simi\SERVER\DAL\bin\Debug\SharpCompress.dll
+E:\project\simi\SERVER\DAL\bin\Debug\System.Buffers.dll
+E:\project\simi\SERVER\DAL\bin\Debug\System.Memory.dll
+E:\project\simi\SERVER\DAL\bin\Debug\System.Numerics.Vectors.dll
+E:\project\simi\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\project\simi\SERVER\DAL\bin\Debug\System.Security.AccessControl.dll
+E:\project\simi\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.dll
+E:\project\simi\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\project\simi\SERVER\DAL\bin\Debug\DnsClient.xml
+E:\project\simi\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+E:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Bson.xml
+E:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.xml
+E:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.xml
+E:\project\simi\SERVER\DAL\bin\Debug\System.Buffers.xml
+E:\project\simi\SERVER\DAL\bin\Debug\System.Memory.xml
+E:\project\simi\SERVER\DAL\bin\Debug\System.Numerics.Vectors.xml
+E:\project\simi\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\project\simi\SERVER\DAL\bin\Debug\System.Security.AccessControl.xml
+E:\project\simi\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.xml
+E:\project\simi\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\project\simi\SERVER\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\project\simi\SERVER\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\project\simi\SERVER\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\project\simi\SERVER\DAL\obj\Debug\DAL.dll
+E:\project\simi\SERVER\DAL\obj\Debug\DAL.pdb
+I:\project\simi\SERVER\DAL\bin\Debug\libzstd.dll
+I:\project\simi\SERVER\DAL\bin\Debug\snappy32.dll
+I:\project\simi\SERVER\DAL\bin\Debug\snappy64.dll
+I:\project\simi\SERVER\DAL\bin\Debug\libsnappy64.so
+I:\project\simi\SERVER\DAL\bin\Debug\libzstd.so
+I:\project\simi\SERVER\DAL\bin\Debug\libsnappy64.dylib
+I:\project\simi\SERVER\DAL\bin\Debug\libzstd.dylib
+I:\project\simi\SERVER\DAL\bin\Debug\mongocrypt.dll
+I:\project\simi\SERVER\DAL\bin\Debug\DAL.dll.config
+I:\project\simi\SERVER\DAL\bin\Debug\DAL.dll
+I:\project\simi\SERVER\DAL\bin\Debug\DAL.pdb
+I:\project\simi\SERVER\DAL\bin\Debug\DnsClient.dll
+I:\project\simi\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+I:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Bson.dll
+I:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.dll
+I:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.dll
+I:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+I:\project\simi\SERVER\DAL\bin\Debug\SharpCompress.dll
+I:\project\simi\SERVER\DAL\bin\Debug\System.Buffers.dll
+I:\project\simi\SERVER\DAL\bin\Debug\System.Memory.dll
+I:\project\simi\SERVER\DAL\bin\Debug\System.Numerics.Vectors.dll
+I:\project\simi\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\project\simi\SERVER\DAL\bin\Debug\System.Security.AccessControl.dll
+I:\project\simi\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.dll
+I:\project\simi\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+I:\project\simi\SERVER\DAL\bin\Debug\DnsClient.xml
+I:\project\simi\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+I:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Bson.xml
+I:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.xml
+I:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.xml
+I:\project\simi\SERVER\DAL\bin\Debug\System.Buffers.xml
+I:\project\simi\SERVER\DAL\bin\Debug\System.Memory.xml
+I:\project\simi\SERVER\DAL\bin\Debug\System.Numerics.Vectors.xml
+I:\project\simi\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\project\simi\SERVER\DAL\bin\Debug\System.Security.AccessControl.xml
+I:\project\simi\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.xml
+I:\project\simi\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+I:\project\simi\SERVER\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+I:\project\simi\SERVER\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+I:\project\simi\SERVER\DAL\obj\Debug\DAL.csproj.CopyComplete
+I:\project\simi\SERVER\DAL\obj\Debug\DAL.dll
+I:\project\simi\SERVER\DAL\obj\Debug\DAL.pdb
+H:\project\simi\SERVER\DAL\bin\Debug\libzstd.dll
+H:\project\simi\SERVER\DAL\bin\Debug\snappy32.dll
+H:\project\simi\SERVER\DAL\bin\Debug\snappy64.dll
+H:\project\simi\SERVER\DAL\bin\Debug\libsnappy64.so
+H:\project\simi\SERVER\DAL\bin\Debug\libzstd.so
+H:\project\simi\SERVER\DAL\bin\Debug\libsnappy64.dylib
+H:\project\simi\SERVER\DAL\bin\Debug\libzstd.dylib
+H:\project\simi\SERVER\DAL\bin\Debug\mongocrypt.dll
+H:\project\simi\SERVER\DAL\bin\Debug\DAL.dll.config
+H:\project\simi\SERVER\DAL\bin\Debug\DAL.dll
+H:\project\simi\SERVER\DAL\bin\Debug\DAL.pdb
+H:\project\simi\SERVER\DAL\bin\Debug\DnsClient.dll
+H:\project\simi\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+H:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Bson.dll
+H:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.dll
+H:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.dll
+H:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+H:\project\simi\SERVER\DAL\bin\Debug\SharpCompress.dll
+H:\project\simi\SERVER\DAL\bin\Debug\System.Buffers.dll
+H:\project\simi\SERVER\DAL\bin\Debug\System.Memory.dll
+H:\project\simi\SERVER\DAL\bin\Debug\System.Numerics.Vectors.dll
+H:\project\simi\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\project\simi\SERVER\DAL\bin\Debug\System.Security.AccessControl.dll
+H:\project\simi\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.dll
+H:\project\simi\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+H:\project\simi\SERVER\DAL\bin\Debug\DnsClient.xml
+H:\project\simi\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+H:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Bson.xml
+H:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.xml
+H:\project\simi\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.xml
+H:\project\simi\SERVER\DAL\bin\Debug\System.Buffers.xml
+H:\project\simi\SERVER\DAL\bin\Debug\System.Memory.xml
+H:\project\simi\SERVER\DAL\bin\Debug\System.Numerics.Vectors.xml
+H:\project\simi\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\project\simi\SERVER\DAL\bin\Debug\System.Security.AccessControl.xml
+H:\project\simi\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.xml
+H:\project\simi\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+H:\project\simi\SERVER\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+H:\project\simi\SERVER\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+H:\project\simi\SERVER\DAL\obj\Debug\DAL.csproj.CopyComplete
+H:\project\simi\SERVER\DAL\obj\Debug\DAL.dll
+H:\project\simi\SERVER\DAL\obj\Debug\DAL.pdb
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\libzstd.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\snappy32.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\snappy64.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\libsnappy64.so
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\libzstd.so
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\libsnappy64.dylib
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\libzstd.dylib
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\mongocrypt.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\DAL.dll.config
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\DAL.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\DAL.pdb
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\DnsClient.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\MongoDB.Bson.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\MongoDB.Driver.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\SharpCompress.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\System.Buffers.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\System.Memory.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\System.Numerics.Vectors.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\System.Security.AccessControl.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\DnsClient.xml
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\MongoDB.Bson.xml
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\MongoDB.Driver.xml
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.xml
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\System.Buffers.xml
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\System.Memory.xml
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\System.Numerics.Vectors.xml
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\System.Security.AccessControl.xml
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.xml
+G:\תיקיות אישיות\Desktop\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+G:\תיקיות אישיות\Desktop\SERVER\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\תיקיות אישיות\Desktop\SERVER\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\תיקיות אישיות\Desktop\SERVER\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\תיקיות אישיות\Desktop\SERVER\DAL\obj\Debug\DAL.dll
+G:\תיקיות אישיות\Desktop\SERVER\DAL\obj\Debug\DAL.pdb
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\libzstd.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\snappy32.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\snappy64.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\libsnappy64.so
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\libzstd.so
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\libsnappy64.dylib
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\libzstd.dylib
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\mongocrypt.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\DAL.dll.config
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\DAL.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\DAL.pdb
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\DnsClient.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\MongoDB.Bson.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\MongoDB.Driver.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\SharpCompress.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\System.Buffers.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\System.Memory.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\System.Numerics.Vectors.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\System.Security.AccessControl.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\DnsClient.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\MongoDB.Bson.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\MongoDB.Driver.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\MongoDB.Driver.Core.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\System.Buffers.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\System.Memory.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\System.Numerics.Vectors.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\System.Security.AccessControl.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\System.Security.Principal.Windows.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\obj\Debug\DAL.dll
+G:\תיקיות אישיות\Desktop\Home exercise\SERVER\DAL\obj\Debug\DAL.pdb

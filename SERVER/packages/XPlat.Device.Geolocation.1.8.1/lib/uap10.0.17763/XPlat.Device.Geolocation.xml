@@ -1,0 +1,468 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XPlat.Device.Geolocation</name>
+    </assembly>
+    <members>
+        <member name="T:XPlat.Device.Geolocation.BasicGeoposition">
+            <summary>The basic information to describe a geographic position.</summary>
+        </member>
+        <member name="F:XPlat.Device.Geolocation.BasicGeoposition.Latitude">
+            <summary>The latitude of the geographic position. The valid range of latitude values is from -90.0 to 90.0 degrees.</summary>
+        </member>
+        <member name="F:XPlat.Device.Geolocation.BasicGeoposition.Longitude">
+            <summary>The longitude of the geographic position. The valid range of longitude values is from -180.0 to 180.0 degrees.</summary>
+        </member>
+        <member name="F:XPlat.Device.Geolocation.BasicGeoposition.Altitude">
+            <summary>The altitude of the geographic position in meters.</summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.BasicGeoposition.#ctor(System.Double,System.Double,System.Double)">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.BasicGeoposition"/> struct.
+            </summary>
+            <param name="latitude">
+            The latitude of the geographic position.
+            </param>
+            <param name="longitude">
+            The longitude of the geographic position.
+            </param>
+            <param name="altitude">
+            The altitude of the geographic position.
+            </param>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.BasicGeoposition.#ctor(Windows.Devices.Geolocation.BasicGeoposition)">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.BasicGeoposition"/> struct.
+            </summary>
+            <param name="geoposition">
+            The Windows BasicGeoposition which will be used to populate the field values.
+            </param>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.BasicGeoposition.op_Implicit(Windows.Devices.Geolocation.BasicGeoposition)~XPlat.Device.Geolocation.BasicGeoposition">
+            <summary>
+            Allows conversion of a <see cref="T:Windows.Devices.Geolocation.BasicGeoposition"/> to the <see cref="T:XPlat.Device.Geolocation.BasicGeoposition"/> without direct casting.
+            </summary>
+            <param name="geoposition">
+            The <see cref="T:Windows.Devices.Geolocation.BasicGeoposition"/>.
+            </param>
+            <returns>
+            The <see cref="T:XPlat.Device.Geolocation.BasicGeoposition"/>.
+            </returns>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.BasicGeoposition.op_Implicit(XPlat.Device.Geolocation.BasicGeoposition)~Windows.Devices.Geolocation.BasicGeoposition">
+            <summary>
+            Allows conversion of a <see cref="T:XPlat.Device.Geolocation.BasicGeoposition"/> to the <see cref="T:Windows.Devices.Geolocation.BasicGeoposition"/> without direct casting.
+            </summary>
+            <param name="geoposition">
+            The <see cref="T:XPlat.Device.Geolocation.BasicGeoposition"/>.
+            </param>
+            <returns>
+            The <see cref="T:Windows.Devices.Geolocation.BasicGeoposition"/>.
+            </returns>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.Extensions.GeolocationAccessStatusExtensions">
+            <summary>
+            Defines a collection of extensions for the GeolocationAccessStatus enum.
+            </summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Extensions.GeolocationAccessStatusExtensions.ToInternalGeolocationAccessStatus(Windows.Devices.Geolocation.GeolocationAccessStatus)">
+            <summary>
+            Converts the Windows GeolocationAccessStatus enum to the internal XPlat equivalent.
+            </summary>
+            <param name="status">The Windows GeolocationAccessStatus to convert.</param>
+            <returns>Returns the equivalent XPlat GeolocationAccessStatus value.</returns>
+            <exception cref="T:System.ArgumentOutOfRangeException">Thrown if the <paramref name="status"/> is not supported.</exception>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Extensions.GeolocationAccessStatusExtensions.ToWindowsGeolocationAccessStatus(XPlat.Device.Geolocation.GeolocationAccessStatus)">
+            <summary>
+            Converts the XPlat GeolocationAccessStatus enum to the Windows equivalent.
+            </summary>
+            <param name="status">The XPlat GeolocationAccessStatus to convert.</param>
+            <returns>Returns the equivalent Windows GeolocationAccessStatus value.</returns>
+            <exception cref="T:System.ArgumentOutOfRangeException">Thrown if the <paramref name="status"/> is not supported.</exception>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.Extensions.PositionStatusExtensions">
+            <summary>
+            Defines a collection of extensions for the PositionStatus enum.
+            </summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Extensions.PositionStatusExtensions.ToInternalPositionStatus(Windows.Devices.Geolocation.PositionStatus)">
+            <summary>
+            Converts the Windows PositionStatus enum to the internal XPlat equivalent.
+            </summary>
+            <param name="status">The Windows PositionStatus to convert.</param>
+            <returns>Returns the equivalent XPlat PositionStatus value.</returns>
+            <exception cref="T:System.ArgumentOutOfRangeException">Thrown if the <paramref name="status"/> is not supported.</exception>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Extensions.PositionStatusExtensions.ToWindowsPositionStatus(XPlat.Device.Geolocation.PositionStatus)">
+            <summary>
+            Converts the XPlat PositionStatus enum to the Windows equivalent.
+            </summary>
+            <param name="status">The XPlat PositionStatus to convert.</param>
+            <returns>Returns the equivalent Windows PositionStatus value.</returns>
+            <exception cref="T:System.ArgumentOutOfRangeException">Thrown if the <paramref name="status"/> is not supported.</exception>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.Geocoordinate">
+            <summary>Contains the information for identifying a geographic location.</summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Geocoordinate.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.Geocoordinate"/> class.
+            </summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Geocoordinate.#ctor(Windows.Devices.Geolocation.Geocoordinate)">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.Geocoordinate"/> class.
+            </summary>
+            <param name="coordinate">
+            The Windows Geocoordinate which will be used to populate the field values.
+            </param>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Geocoordinate.op_Implicit(Windows.Devices.Geolocation.Geocoordinate)~XPlat.Device.Geolocation.Geocoordinate">
+            <summary>
+            Allows conversion of a <see cref="T:Windows.Devices.Geolocation.Geocoordinate"/> to the <see cref="T:XPlat.Device.Geolocation.Geocoordinate"/> without direct casting.
+            </summary>
+            <param name="geocoordinate">
+            The <see cref="T:Windows.Devices.Geolocation.Geocoordinate"/>.
+            </param>
+            <returns>
+            The <see cref="T:XPlat.Device.Geolocation.Geocoordinate"/>.
+            </returns>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geocoordinate.Latitude">
+            <summary>Gets or sets the latitude in degrees. The valid range of values is from -90.0 to 90.0.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geocoordinate.Longitude">
+            <summary>Gets or sets the longitude in degrees. The valid range of values is from -180.0 to 180.0.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geocoordinate.Altitude">
+            <summary>Gets or sets the altitude of the location, in meters.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geocoordinate.Accuracy">
+            <summary>Gets or sets the accuracy of the location in meters.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geocoordinate.Heading">
+            <summary>Gets or sets the current heading in degrees relative to true north.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geocoordinate.Speed">
+            <summary>Gets or sets the speed in meters per second.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geocoordinate.Timestamp">
+            <summary>Gets or sets the system time at which the location was determined.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geocoordinate.Point">
+            <summary>Gets or sets the location of the Geocoordinate.</summary>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.GeolocationAccessStatus">
+            <summary>Indicates if your app has permission to access location data.</summary>
+        </member>
+        <member name="F:XPlat.Device.Geolocation.GeolocationAccessStatus.Unspecified">
+            <summary>Permission to access location was not specified.</summary>
+        </member>
+        <member name="F:XPlat.Device.Geolocation.GeolocationAccessStatus.Allowed">
+            <summary>Permission to access location was granted.</summary>
+        </member>
+        <member name="F:XPlat.Device.Geolocation.GeolocationAccessStatus.Denied">
+            <summary>Permission to access location was denied.</summary>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.Geolocator">
+            <summary>Provides access to the current geographic location.</summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Geolocator.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.Geolocator"/> class.
+            </summary>
+        </member>
+        <member name="E:XPlat.Device.Geolocation.Geolocator.PositionChanged">
+            <summary>Raised when the location is updated.</summary>
+        </member>
+        <member name="E:XPlat.Device.Geolocation.Geolocator.StatusChanged">
+            <summary>Raised when the ability of the Geolocator to provide updated location changes.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geolocator.Originator">
+            <summary>Gets the originating Windows Geolocator instance.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geolocator.LastKnownPosition">
+            <summary>Gets the last known position recorded by the Geolocator.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geolocator.ReportInterval">
+            <summary>Gets or sets the requested minimum time interval between location updates, in milliseconds. If your application requires updates infrequently, set this value so that location services can conserve power by calculating location only when needed.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geolocator.MovementThreshold">
+            <summary>Gets or sets the distance of movement, in meters, relative to the coordinate from the last PositionChanged event, that is required for the Geolocator to raise a PositionChanged event.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geolocator.LocationStatus">
+            <summary>Gets the status that indicates the ability of the Geolocator to provide location updates.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geolocator.DesiredAccuracy">
+            <summary>Gets or sets the accuracy level at which the Geolocator provides location updates.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geolocator.DesiredAccuracyInMeters">
+            <summary>Gets or sets the desired accuracy in meters for data returned from the location service.</summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Geolocator.GetGeopositionAsync">
+            <summary>Starts an asynchronous operation to retrieve the current location of the device.</summary>
+            <returns>An asynchronous operation that, upon completion, returns a Geoposition marking the found location.</returns>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Geolocator.GetGeopositionAsync(System.TimeSpan,System.TimeSpan)">
+            <summary>
+            Starts an asynchronous operation to retrieve the current location of the device.
+            </summary>
+            <param name="maximumAge">
+            The maximum acceptable age of cached location data.
+            </param>
+            <param name="timeout">
+            The timeout.
+            </param>
+            <returns>
+            An asynchronous operation that, upon completion, returns a Geoposition marking the found location.
+            </returns>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Geolocator.RequestAccessAsync">
+            <summary>Requests permission to access location data.</summary>
+            <returns>A GeolocationAccessStatus that indicates if permission to location data has been granted.</returns>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.GeolocatorException">
+            <summary>
+            Defines an exception for an error in the <see cref="T:XPlat.Device.Geolocation.IGeolocator"/>.
+            </summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.GeolocatorException.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.GeolocatorException"/> class.
+            </summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.GeolocatorException.#ctor(System.String)">
+            <summary>Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.GeolocatorException"/> class with a specified error message.</summary>
+            <param name="message">The error message that explains the reason for the exception.</param>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.GeolocatorException.#ctor(System.String,System.Exception)">
+            <summary>Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.GeolocatorException"/> class with a specified error message and a reference to the inner exception that is the cause of this exception.</summary>
+            <param name="message">The error message that explains the reason for the exception.</param>
+            <param name="innerException">The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified.</param>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.Geopoint">
+            <summary>Describes a geographic point.</summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Geopoint.#ctor(XPlat.Device.Geolocation.BasicGeoposition)">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.Geopoint"/> class.
+            </summary>
+            <param name="position">
+            The position.
+            </param>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Geopoint.#ctor(Windows.Devices.Geolocation.Geopoint)">
+            <summary>Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.Geopoint"/> class.</summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Geopoint.#ctor(Windows.Devices.Geolocation.BasicGeoposition)">
+            <summary>Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.Geopoint"/> class.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geopoint.Position">
+            <summary>Gets or sets the position of a geographic point.</summary>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.Geoposition">
+            <summary>Represents a location that may contain latitude and longitude data.</summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Geoposition.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.Geoposition"/> class.
+            </summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Geoposition.#ctor(XPlat.Device.Geolocation.Geocoordinate)">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.Geoposition"/> class.
+            </summary>
+            <param name="coordinate">
+            The coordinate.
+            </param>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Geoposition.#ctor(Windows.Devices.Geolocation.Geocoordinate)">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.Geoposition"/> class.
+            </summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.Geoposition.#ctor(Windows.Devices.Geolocation.Geoposition)">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.Geoposition"/> class.
+            </summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.Geoposition.Coordinate">
+            <summary>Gets or sets the latitude and longitude associated with a geographic location.</summary>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.IGeocoordinate">
+            <summary>Contains the information for identifying a geographic location.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IGeocoordinate.Latitude">
+            <summary>Gets or sets the latitude in degrees. The valid range of values is from -90.0 to 90.0.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IGeocoordinate.Longitude">
+            <summary>Gets or sets the longitude in degrees. The valid range of values is from -180.0 to 180.0.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IGeocoordinate.Altitude">
+            <summary>Gets or sets the altitude of the location, in meters.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IGeocoordinate.Accuracy">
+            <summary>Gets or sets the accuracy of the location in meters.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IGeocoordinate.Heading">
+            <summary>Gets or sets the current heading in degrees relative to true north.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IGeocoordinate.Speed">
+            <summary>Gets or sets the speed in meters per second.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IGeocoordinate.Timestamp">
+            <summary>Gets or sets the system time at which the location was determined.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IGeocoordinate.Point">
+            <summary>Gets or sets the location of the Geocoordinate.</summary>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.IGeolocator">
+            <summary>Provides access to the current geographic location.</summary>
+        </member>
+        <member name="E:XPlat.Device.Geolocation.IGeolocator.PositionChanged">
+            <summary>Raised when the location is updated.</summary>
+        </member>
+        <member name="E:XPlat.Device.Geolocation.IGeolocator.StatusChanged">
+            <summary>Raised when the ability of the Geolocator to provide updated location changes.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IGeolocator.DesiredAccuracy">
+            <summary>Gets or sets the accuracy level at which the Geolocator provides location updates.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IGeolocator.MovementThreshold">
+            <summary>Gets or sets the distance of movement, in meters, relative to the coordinate from the last PositionChanged event, that is required for the Geolocator to raise a PositionChanged event.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IGeolocator.ReportInterval">
+            <summary>Gets or sets the requested minimum time interval between location updates, in milliseconds. If your application requires updates infrequently, set this value so that location services can conserve power by calculating location only when needed.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IGeolocator.LocationStatus">
+            <summary>Gets the status that indicates the ability of the Geolocator to provide location updates.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IGeolocator.LastKnownPosition">
+            <summary>Gets the last known position recorded by the Geolocator.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IGeolocator.DesiredAccuracyInMeters">
+            <summary>Gets or sets the desired accuracy in meters for data returned from the location service.</summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.IGeolocator.RequestAccessAsync">
+            <summary>Requests permission to access location data.</summary>
+            <returns>A GeolocationAccessStatus that indicates if permission to location data has been granted.</returns>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.IGeolocator.GetGeopositionAsync">
+            <summary>Starts an asynchronous operation to retrieve the current location of the device.</summary>
+            <returns>An asynchronous operation that, upon completion, returns a Geoposition marking the found location.</returns>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.IGeolocator.GetGeopositionAsync(System.TimeSpan,System.TimeSpan)">
+            <summary>
+            Starts an asynchronous operation to retrieve the current location of the device.
+            </summary>
+            <param name="maximumAge">
+            The maximum acceptable age of cached location data.
+            </param>
+            <param name="timeout">
+            The timeout.
+            </param>
+            <returns>
+            An asynchronous operation that, upon completion, returns a Geoposition marking the found location.
+            </returns>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.IGeopoint">
+            <summary>Describes a geographic point.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IGeopoint.Position">
+            <summary>Gets or sets the position of a geographic point.</summary>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.IGeoposition">
+            <summary>Represents a location that may contain latitude and longitude data.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IGeoposition.Coordinate">
+            <summary>Gets or sets the latitude and longitude associated with a geographic location.</summary>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.IStatusChangedEventArgs">
+            <summary>Provides information for the StatusChanged event.</summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.IStatusChangedEventArgs.Status">
+            <summary>Gets the updated status of the Geolocator object.</summary>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.PositionAccuracy">
+            <summary>Indicates the requested accuracy level for the location data that the application uses.</summary>
+        </member>
+        <member name="F:XPlat.Device.Geolocation.PositionAccuracy.Default">
+            <summary>Optimize for power, performance, and other cost considerations.</summary>
+        </member>
+        <member name="F:XPlat.Device.Geolocation.PositionAccuracy.High">
+            <summary>Deliver the most accurate report possible. This includes using services that might charge money, or consuming higher levels of battery power or connection bandwidth. An accuracy level of High may degrade system performance and should be used only when necessary.</summary>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.PositionChangedEventArgs">
+            <summary>Provides data for the PositionChanged event.</summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.PositionChangedEventArgs.#ctor(XPlat.Device.Geolocation.Geoposition)">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.PositionChangedEventArgs"/> class.
+            </summary>
+            <param name="position">
+            The location data associated with the PositionChanged event.
+            </param>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.PositionChangedEventArgs.#ctor(Windows.Devices.Geolocation.PositionChangedEventArgs)">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.PositionChangedEventArgs"/> class.
+            </summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.PositionChangedEventArgs.#ctor(Windows.Devices.Geolocation.Geoposition)">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.PositionChangedEventArgs"/> class.
+            </summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.PositionChangedEventArgs.Position">
+            <summary>
+            Gets the location data associated with the PositionChanged event.
+            </summary>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.PositionStatus">
+            <summary>Indicates the ability of the Geolocator object to provide location data.</summary>
+        </member>
+        <member name="F:XPlat.Device.Geolocation.PositionStatus.Ready">
+            <summary>Location data is available.</summary>
+        </member>
+        <member name="F:XPlat.Device.Geolocation.PositionStatus.Initializing">
+            <summary>Location services is initializing. This is the status if a GPS is the source of location data and the GPS receiver does not yet have the required number of satellites in view to obtain an accurate position.</summary>
+        </member>
+        <member name="F:XPlat.Device.Geolocation.PositionStatus.NoData">
+            <summary>No location data is available from any source. LocationStatus will have this value if the application calls GetGeopositionAsync or registers an event handler for the PositionChanged event, before data is available from a location sensor. Once data is available LocationStatus transitions to the Ready state.</summary>
+        </member>
+        <member name="F:XPlat.Device.Geolocation.PositionStatus.Disabled">
+            <summary>Location settings are turned off. This status indicates that the user has not granted the application permission to access location.</summary>
+        </member>
+        <member name="F:XPlat.Device.Geolocation.PositionStatus.NotInitialized">
+            <summary>An operation to retrieve location has not yet been initialized. LocationStatus will have this value if the application has not yet called GetGeopositionAsync or registered an event handler for the PositionChanged event. LocationStatus may also have this value if your app doesn't have permission to access location. Call the RequestAccessAsync before accessing the user's location. At that time, your app must be in the foreground and RequestAccessAsync must be called from the UI thread. Until the user grants your app permission to their location, your app can't access location data.</summary>
+        </member>
+        <member name="F:XPlat.Device.Geolocation.PositionStatus.NotAvailable">
+            <summary>Location services is not available.</summary>
+        </member>
+        <member name="T:XPlat.Device.Geolocation.StatusChangedEventArgs">
+            <summary>Provides information for the StatusChanged event.</summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.StatusChangedEventArgs.#ctor(XPlat.Device.Geolocation.PositionStatus)">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.StatusChangedEventArgs"/> class.
+            </summary>
+            <param name="status">
+            The position status.
+            </param>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.StatusChangedEventArgs.#ctor(Windows.Devices.Geolocation.PositionStatus)">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.StatusChangedEventArgs"/> class.
+            </summary>
+        </member>
+        <member name="M:XPlat.Device.Geolocation.StatusChangedEventArgs.#ctor(Windows.Devices.Geolocation.StatusChangedEventArgs)">
+            <summary>
+            Initializes a new instance of the <see cref="T:XPlat.Device.Geolocation.StatusChangedEventArgs"/> class.
+            </summary>
+        </member>
+        <member name="P:XPlat.Device.Geolocation.StatusChangedEventArgs.Status">
+            <summary>Gets the updated status of the Geolocator object.</summary>
+        </member>
+    </members>
+</doc>
