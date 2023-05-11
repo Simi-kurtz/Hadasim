@@ -13,7 +13,6 @@ namespace DAL
     {
         private static ConnectToDB connection = new ConnectToDB();
 
-
         [BsonId]
         //[BsonRepresentation(MongoDB.Bson.BsonType.ObjectId)]
         public string UserId { get; set; }
@@ -33,15 +32,16 @@ namespace DAL
         public List<DateTime> DateOfReceiptOfVaccinations { get => dateOfReceiptOfVaccinations; set => dateOfReceiptOfVaccinations = value; }
         public List<DateTime> PositiveOutcomeDateAndRecoveryDate { get => positiveOutcomeDateAndRecoveryDate; set => positiveOutcomeDateAndRecoveryDate = value; }
 
-
         public bool AddUser()
         {
             return connection.AddUser(this);
         }
+       
         public bool CheckUser(UserModel u)
         {
             return connection.CheckUser(u).Result;
         }
+        
         public List<UserModel> GetUsers()
         {
             return connection.GetUsers();
@@ -51,6 +51,7 @@ namespace DAL
         {
             return connection.GetUser(ID);
         }
+        
         public int GetNotVaccinated()
         {
             return connection.GetNotVaccinated();
@@ -60,6 +61,5 @@ namespace DAL
         {
             return connection.GetActivePatients();
         }
-
     }
 }
