@@ -3,7 +3,7 @@ Homework as part of the job entry process
 
 Language: C#
 
-Work environment: Visual Studio.
+development enviroment: Visual Studio.
 
 Database: MongoDB
 
