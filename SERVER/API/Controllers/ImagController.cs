@@ -64,12 +64,5 @@ namespace API.Controllers
 
 
         }
-
-        //[HttpGet]
-        //[Route("data")]
-        //public bool GetConnection()
-        //{
-        //    return true;
-        //}
     }
 }
