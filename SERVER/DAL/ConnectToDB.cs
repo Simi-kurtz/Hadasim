@@ -46,7 +46,6 @@ namespace DAL
             return user;    
         }
 
-
         /// <summary>
         /// How many Copa members are not vaccinated at all?
         /// </summary>
@@ -85,8 +84,7 @@ namespace DAL
                 {
                     int day = document.PositiveOutcomeDateAndRecoveryDate[0].Day;
                     DActivPatients[day] += 1;
-                }
-                
+                }   
             }
             return DActivPatients;
         }
@@ -136,6 +134,5 @@ namespace DAL
                 return false;
             }
         }
-    }
-   
+    }  
 }
